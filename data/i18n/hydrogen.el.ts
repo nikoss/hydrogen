@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <!DOCTYPE TS>
-<TS version="2.1" language="el_GR">
+<TS language="el_GR" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -8,24 +8,24 @@
         <translation>Σχετικά με</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Website&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt;Ιστότοπος&lt;/b&gt;&lt;br&gt;</translation>
+        <source>&lt;b>Website&lt;/b>&lt;br></source>
+        <translation>&lt;b>Ιστότοπος&lt;/b>&lt;br></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Project page&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt;Σελίδα του εγχειρήματος&lt;/b&gt;&lt;br&gt;</translation>
+        <source>&lt;b>Project page&lt;/b>&lt;br></source>
+        <translation>&lt;b>Σελίδα του εγχειρήματος&lt;/b>&lt;br></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Main coder and maintainer:&lt;/b&gt;&lt;br&gt;</source>
-        <translation>&lt;b&gt;Κύριος προγραμματιστής και συντηρητής:&lt;/b&gt;&lt;br&gt;</translation>
+        <source>&lt;b>Main coder and maintainer:&lt;/b>&lt;br></source>
+        <translation>&lt;b>Κύριος προγραμματιστής και συντηρητής:&lt;/b>&lt;br></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Thanks to:&lt;/b&gt;</source>
-        <translation>&lt;b&gt;Ευχαριστίες στους:&lt;/b&gt;</translation>
+        <source>&lt;b>Thanks to:&lt;/b></source>
+        <translation>&lt;b>Ευχαριστίες στους:&lt;/b></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Development mailing list&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b>Development mailing list&lt;/b>&lt;br></source>
+        <translation>&lt;b>Κατάστιχο ηλεκτρονικού ταχυδρείου ανάπτυξης&lt;/b>&lt;br></translation>
     </message>
 </context>
 <context>
@@ -87,7 +87,7 @@
     <message>
         <source>Buffer size</source>
         <translation>Μέγεθος της 
-μικροαποθήκευσης</translation>
+μικραποθήκευσης</translation>
     </message>
     <message>
         <source>Sample rate</source>
@@ -249,7 +249,7 @@
     </message>
     <message>
         <source>&amp;Filename to instrument name</source>
-        <translation>&amp;Διατήρηση του ονόματος</translation>
+        <translation type="unfinished">&amp;Διατήρηση του ονόματος</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
@@ -276,11 +276,11 @@
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"></translation>
+        <translation>Μόνο του</translation>
     </message>
     <message>
         <source>Component name</source>
-        <translation>Όνομα του στοιχείου</translation>
+        <translation type="unfinished">Όνομα του στοιχείου</translation>
     </message>
     <message>
         <source>Set instrument volume [%1]</source>
@@ -291,7 +291,7 @@
     <name>Director</name>
     <message>
         <source>Director</source>
-        <translation>Καθοδηγητής</translation>
+        <translation type="unfinished">Καθοδηγητής</translation>
     </message>
 </context>
 <context>
@@ -323,7 +323,7 @@
         <translation>Επέλεξε τυχαία εισαγωγή.</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;justify&quot;&gt;Hydrogen is an open source project which is developed by multiple people in their spare time. By making a donation you can say &amp;quot;thank you&amp;quot; to the involved persons.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html>&lt;head/>&lt;body>&lt;p align="justify">Hydrogen is an open source project which is developed by multiple people in their spare time. By making a donation you can say &amp;quot;thank you&amp;quot; to the involved persons.&lt;/p>&lt;/body>&lt;/html></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -370,7 +370,7 @@ Overwrite the existing file?</source>
     </message>
     <message>
         <source>Export to separate tracks</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή σε ξεχωριστά κανάλια</translation>
     </message>
 </context>
 <context>
@@ -381,7 +381,7 @@ Overwrite the existing file?</source>
     </message>
     <message>
         <source>&amp;Browse...</source>
-        <translation>Ανα&amp;ζήτηση...</translation>
+        <translation>Εξε&amp;ρεύνηση...</translation>
     </message>
     <message>
         <source>&amp;Close</source>
@@ -425,7 +425,7 @@ Overwrite the existing file?</source>
     </message>
     <message>
         <source>SampleDepth in Bit:</source>
-        <translation>Βάθος δειγματοληψίας σε Bit:</translation>
+        <translation>Βάθος Δειγματοληψίας σε Μπίτια:</translation>
     </message>
     <message>
         <source>8</source>
@@ -448,44 +448,44 @@ Overwrite the existing file?</source>
         <translation>Προσχέδια:</translation>
     </message>
     <message>
-        <source>WAV in CD quality  &quot;44,1kHz, 16 bit PCM&quot;</source>
-        <translation>WAV σε ποιότητα CD &quot;44,1kHz, 16 bit PCM&quot;</translation>
+        <source>WAV in CD quality  "44,1kHz, 16 bit PCM"</source>
+        <translation>WAV σε ποιότητα CD "44,1 χιλιοΧέρτζ, 16 μπίτια PCM"</translation>
     </message>
     <message>
-        <source>WAV in ADAT quality &quot;48 kHz, 16 bit PCM&quot;</source>
-        <translation>WAV σε ποιότητα ADAT &quot;48 kHz, 16 bit PCM&quot;</translation>
+        <source>WAV in ADAT quality "48 kHz, 16 bit PCM"</source>
+        <translation>WAV σε ποιότητα ADAT "48 χιλιοΧέρτζ, 16 μπίτια PCM"</translation>
     </message>
     <message>
-        <source>WAV in better quality &quot;48 kHz, 24 bit PCM&quot;</source>
-        <translation>WAV σε καλύτερη ποιότητα &quot;48 kHz, 24 bit PCM&quot;</translation>
+        <source>WAV in better quality "48 kHz, 24 bit PCM"</source>
+        <translation>WAV σε καλύτερη ποιότητα "48 χιλιοΧέρτζ, 24 μπίτια PCM"</translation>
     </message>
     <message>
-        <source>WAV LOFI &quot;22.05kHz, 8 bit PCM </source>
-        <translation>WAV LOFI &quot;22.05kHz, 8 bit PCM </translation>
+        <source>WAV LOFI "22.05kHz, 8 bit PCM </source>
+        <translation>WAV LOFI "22.05 χιλιοΧέρτζ, 8 μπίτια PCM </translation>
     </message>
     <message>
-        <source>WAV best Mixdown quality &quot;96 kHz, 32 bit PCM&quot;</source>
-        <translation>WAV στην καλύτερη ποιότητα μίξης &quot;96 kHz, 32 bit PCM&quot;</translation>
+        <source>WAV best Mixdown quality "96 kHz, 32 bit PCM"</source>
+        <translation>WAV στην καλύτερη ποιότητα μείξης "96 χιλιοΧέρτζ, 32 μπίτια PCM"</translation>
     </message>
     <message>
-        <source>AIFF in CD quality &quot;41 kHz, 16 bit PCM&quot;</source>
-        <translation>AIFF σε ποιότητα CD &quot;41 kHz, 16 bit PCM&quot;</translation>
+        <source>AIFF in CD quality "41 kHz, 16 bit PCM"</source>
+        <translation>AIFF σε ποιότητα CD "41 χιλιοΧέρτζ, 16 μπίτια PCM"</translation>
     </message>
     <message>
-        <source>AIFF in ADAT quality &quot;48 kHz, 16 bit PCM&quot;</source>
-        <translation>AIFF σε ποιότητα ADAT &quot;48 kHz, 16 bit PCM&quot;</translation>
+        <source>AIFF in ADAT quality "48 kHz, 16 bit PCM"</source>
+        <translation>AIFF σε ποιότητα ADAT "48 χιλιοΧέρτζ, 16 μπίτια PCM"</translation>
     </message>
     <message>
-        <source>AIFF in better quality &quot;48 kHz, 24 bit PCM&quot;</source>
-        <translation>AIFF σε καλύτερη ποιότητα &quot;48 kHz, 24 bit PCM&quot;</translation>
+        <source>AIFF in better quality "48 kHz, 24 bit PCM"</source>
+        <translation>AIFF σε καλύτερη ποιότητα "48 χιλιοΧέρτζ, 24 μπίτια PCM"</translation>
     </message>
     <message>
-        <source>FLAC lossless compressor in good quality &quot;48 kHz&quot;</source>
-        <translation>FLAC συμπίεση χωρίς απώλειες, σε καλή ποιότητα &quot;48 kHz&quot;</translation>
+        <source>FLAC lossless compressor in good quality "48 kHz"</source>
+        <translation>FLAC συμπίεση χωρίς απώλειες, με καλή ποιότητα "48 χιλιοΧέρτζ"</translation>
     </message>
     <message>
-        <source>OGG Vorbis loosely compressed in good quality &quot;VBR&quot;</source>
-        <translation>OGG Vorbis συμπίεση με απώλειες, σε καλή ποιότητα &quot;VBR&quot;</translation>
+        <source>OGG Vorbis loosely compressed in good quality "VBR"</source>
+        <translation>OGG Vorbis συμπίεση με απώλειες, σε καλή ποιότητα "VBR"</translation>
     </message>
     <message>
         <source>Interpolation: </source>
@@ -528,7 +528,7 @@ Overwrite the existing file?</source>
         <translation>88200</translation>
     </message>
     <message>
-        <source>Enable use of rubberband&apos;s batch processor</source>
+        <source>Enable use of rubberband's batch processor</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -537,7 +537,7 @@ Overwrite the existing file?</source>
     </message>
     <message>
         <source>Dialog</source>
-        <translation type="unfinished">Διάλογος</translation>
+        <translation>Διάλογος</translation>
     </message>
     <message>
         <source>Export directory:</source>
@@ -551,15 +551,15 @@ Overwrite the existing file?</source>
 <context>
     <name>FileBrowser</name>
     <message>
-        <source>%1&lt;br&gt;%2 KHz&lt;br&gt;%3 %4</source>
-        <translation>%1&lt;br&gt;%2 KHz&lt;br&gt;%3 %4</translation>
+        <source>%1&lt;br>%2 KHz&lt;br>%3 %4</source>
+        <translation>%1&lt;br>%2 χιλιοΧέρτζ&lt;br>%3 %4</translation>
     </message>
 </context>
 <context>
     <name>FxMixerLine</name>
     <message>
         <source>FX on/off</source>
-        <translation>FX ενεργοποιημένα ή όχι</translation>
+        <translation>FX ενεργά ή όχι</translation>
     </message>
     <message>
         <source>Master output</source>
@@ -629,7 +629,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mixer</source>
-        <translation>Μίκτης</translation>
+        <translation>Μείκτης</translation>
     </message>
     <message>
         <source>Drumkit loaded: [%1]</source>
@@ -648,7 +648,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show instrument properties</source>
-        <translation>Εμφάνιση των ιδιοτήτων του οργάνου</translation>
+        <translation>Προβολή των ιδιοτήτων του οργάνου</translation>
     </message>
     <message>
         <source>Layers</source>
@@ -656,7 +656,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show layers properties</source>
-        <translation>Εμφάνιση των ιδιοτήτων των στρωμάτων</translation>
+        <translation>Προβολή των ιδιοτήτων των στρωμάτων</translation>
     </message>
     <message>
         <source>Random pitch factor</source>
@@ -716,7 +716,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Component name</source>
-        <translation type="unfinished">Όνομα </translation>
+        <translation type="unfinished">Όνομα του στοιχείου</translation>
     </message>
     <message>
         <source>Midi out channel</source>
@@ -731,12 +731,12 @@ Are you sure?</source>
         <translation type="unfinished">Ένταση</translation>
     </message>
     <message>
-        <source>Don&apos;t change the layers&apos; gain based on velocity</source>
+        <source>Don't change the layers' gain based on velocity</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Select pattern size</source>
-        <translation type="unfinished"></translation>
+        <translation>Επέλεξε το μέγεθος της μήτρας</translation>
     </message>
 </context>
 <context>
@@ -747,7 +747,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"></translation>
+        <translation>Μόνο του</translation>
     </message>
     <message>
         <source>Clear notes</source>
@@ -795,11 +795,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Only for this pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Μόνο γι αυτή τη μήτρα</translation>
     </message>
     <message>
         <source>For all patterns</source>
-        <translation type="unfinished"></translation>
+        <translation>Για όλες τις μήτρες</translation>
     </message>
     <message>
         <source>Paste notes ...</source>
@@ -807,26 +807,26 @@ Are you sure?</source>
     </message>
     <message>
         <source>Rename instrument</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετονομασία οργάνου</translation>
     </message>
     <message>
         <source>New instrument name</source>
-        <translation type="unfinished">Όνομα του νέου οργάνου</translation>
+        <translation>Όνομα του νέου οργάνου</translation>
     </message>
     <message>
         <source>Fill 1/12 notes</source>
-        <translation type="unfinished">Συμπλήρωμα 1/8 στιγμάτων {1/12 ?}</translation>
+        <translation>Συμπλήρωμα 1/12 στιγμάτων</translation>
     </message>
     <message>
         <source>Fill 1/16 notes</source>
-        <translation type="unfinished">Συμπλήρωμα 1/8 στιγμάτων {1/16 ?}</translation>
+        <translation>Συμπλήρωμα 1/16 στιγμάτων</translation>
     </message>
 </context>
 <context>
     <name>InstrumentRack</name>
     <message>
         <source>Show Instrument editor</source>
-        <translation>Εμφάνιση του επεξεργαστή οργάνου</translation>
+        <translation>Προβολή του επεξεργαστή οργάνου</translation>
     </message>
     <message>
         <source>Instrument</source>
@@ -834,7 +834,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show sound library</source>
-        <translation>Εμφάνιση της βιβλιοθήκης ήχων</translation>
+        <translation>Προβολή της βιβλιοθήκης ήχων</translation>
     </message>
     <message>
         <source>Sound library</source>
@@ -857,7 +857,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Effect return</source>
-        <translation>Επιστροφή του εφέ</translation>
+        <translation type="unfinished">Επιστροφή του εφέ</translation>
     </message>
 </context>
 <context>
@@ -965,16 +965,16 @@ Are you sure?</source>
         <translation>1</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Name:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Name:&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Όνομα:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Όνομα:&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>### fx name
@@ -983,52 +983,52 @@ p, li { white-space: pre-wrap; }
 1</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Label:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Label:&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Ετικέτα:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Ετικέτα:&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Type:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Type:&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Τύπος:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Τύπος:&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;ID:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">ID:&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Ταυτότητα:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Ταυτότητα:&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Maker:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Maker:&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Δημιουργός:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Δημιουργός:&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>### FX maker
@@ -1039,16 +1039,16 @@ p, li { white-space: pre-wrap; }
 2</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Copyright:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Copyright:&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:12pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Copyright:&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:12pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-weight:600;">Copyright:&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>### copyright
@@ -1087,15 +1087,15 @@ MIDI = %2</source>
     </message>
     <message>
         <source>&amp;New</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Νέο</translation>
     </message>
     <message>
         <source>Show &amp;info</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή Πληροφορ&amp;ιών </translation>
     </message>
     <message>
         <source>&amp;Open</source>
-        <translation type="unfinished"></translation>
+        <translation>Άν&amp;οιγμα</translation>
     </message>
     <message>
         <source>Open &amp;Demo</source>
@@ -1103,23 +1103,23 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Open &amp;recent</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα &amp;πρόσφατου</translation>
     </message>
     <message>
         <source>&amp;Save</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Αποθήκευση</translation>
     </message>
     <message>
         <source>Save &amp;as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση &amp;ως...</translation>
     </message>
     <message>
         <source>Open &amp;Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα &amp;Μήτρας</translation>
     </message>
     <message>
         <source>Expor&amp;t pattern as...</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγής της μή&amp;τρας ως...</translation>
     </message>
     <message>
         <source>Export &amp;MIDI file</source>
@@ -1127,20 +1127,20 @@ MIDI = %2</source>
     </message>
     <message>
         <source>&amp;Export song</source>
-        <translation type="unfinished"></translation>
+        <translation>Ε&amp;ξαγωγή τραγουδιού</translation>
     </message>
     <message>
         <source>&amp;Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Τερματισμός</translation>
     </message>
     <message>
         <source>&amp;Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Α&amp;ναίρεση</translation>
         <extra-FILE>menu</extra-FILE>
     </message>
     <message>
         <source>Undo</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναίρεση</translation>
     </message>
     <message>
         <source>Redo</source>
@@ -1152,11 +1152,11 @@ MIDI = %2</source>
     </message>
     <message>
         <source>&amp;Add instrument</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προσθήκη όργανου</translation>
     </message>
     <message>
         <source>&amp;Clear all</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Καθάρισμα όλων</translation>
     </message>
     <message>
         <source>Playlist &amp;editor</source>
@@ -1168,15 +1168,15 @@ MIDI = %2</source>
     </message>
     <message>
         <source>&amp;Mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Μείκτης</translation>
     </message>
     <message>
         <source>&amp;Instrument Rack</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Input mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Λειτουργία Κατάστασης Εισαγωγής</translation>
     </message>
     <message>
         <source>Instrument</source>
@@ -1184,19 +1184,19 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Drumkit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα Κρουστών</translation>
     </message>
     <message>
         <source>&amp;Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προτιμήσεις</translation>
     </message>
     <message>
         <source>De&amp;bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποσ&amp;φαλμάτωση</translation>
     </message>
     <message>
         <source>Show &amp;audio engine info</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή των πληροφοριών της μ&amp;ηχανής ήχου</translation>
     </message>
     <message>
         <source>Print Objects</source>
@@ -1204,19 +1204,19 @@ MIDI = %2</source>
     </message>
     <message>
         <source>&amp;Info</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Πληροφορίες</translation>
     </message>
     <message>
         <source>&amp;User manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγ&amp;χειρίδιο χρήσης</translation>
     </message>
     <message>
         <source>&amp;About</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Σχετικά με...</translation>
     </message>
     <message>
         <source>Report bug</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναφορά δυσλειτουργίας</translation>
     </message>
     <message>
         <source>Hydrogen Song (*.h2song)</source>
@@ -1244,15 +1244,15 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Save Pattern as ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση της Μήτρας ως ...</translation>
     </message>
     <message>
         <source>Could not export pattern.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αδυναμία εξαγωγής της μήτρας.</translation>
     </message>
     <message>
         <source>Pattern saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθηκεύθηκε η μήτρα.</translation>
     </message>
     <message>
         <source>Open song</source>
@@ -1260,27 +1260,27 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Open Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Μήτρας</translation>
     </message>
     <message>
         <source>Clear all instruments?</source>
-        <translation type="unfinished"></translation>
+        <translation>Καθάρισμα όλων των οργάνων;</translation>
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>Error loading song.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα στο φόρτωμα του τραγουδιού.</translation>
     </message>
     <message>
         <source>Midi file (*.mid)</source>
-        <translation type="unfinished"></translation>
+        <translation>ΜΙΝΤΙ αρχείο (*.mid)</translation>
     </message>
     <message>
         <source>Export MIDI file</source>
@@ -1319,12 +1319,12 @@ MIDI = %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>You&apos;re using a development version of Hydrogen, please help us reporting bugs or suggestions in the hydrogen-devel mailing list.&lt;br&gt;&lt;br&gt;Thank you!</source>
+        <source>You're using a development version of Hydrogen, please help us reporting bugs or suggestions in the hydrogen-devel mailing list.&lt;br>&lt;br>Thank you!</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Don&apos;t show this message anymore</source>
-        <translation type="unfinished"></translation>
+        <source>Don't show this message anymore</source>
+        <translation>Να μην προβάλεται αυτό το μήνυμα, από εδώ και πέρα</translation>
     </message>
     <message>
         <source>Playlist: Song No. %1</source>
@@ -1339,11 +1339,11 @@ Do you want to save the changes?
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Από&amp;ρριψη</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">Α&amp;κύρωση</translation>
+        <translation>Α&amp;κύρωση</translation>
     </message>
     <message>
         <source>Export &amp;LilyPond file</source>
@@ -1351,11 +1351,11 @@ Do you want to save the changes?
     </message>
     <message>
         <source>Donate</source>
-        <translation type="unfinished"></translation>
+        <translation>Να γίνει δωρεά</translation>
     </message>
     <message>
         <source>LilyPond file (*.ly)</source>
-        <translation type="unfinished"></translation>
+        <translation>LilyPond αρχείο (*.ly)</translation>
     </message>
     <message>
         <source>Export LilyPond file</source>
@@ -1370,35 +1370,35 @@ Do you want to discard the changes?
     </message>
     <message>
         <source>Pro&amp;ject</source>
-        <translation type="unfinished"></translation>
+        <translation>Ε&amp;ργασία</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέα</translation>
     </message>
     <message>
         <source>Open</source>
-        <translation type="unfinished">Άνοιγμα</translation>
+        <translation>Άνοιγμα</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες</translation>
     </message>
     <message>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση</translation>
     </message>
     <message>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση  Ως</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished">Εξαγωγή</translation>
+        <translation>Εξαγωγή</translation>
     </message>
     <message>
         <source>Import</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή</translation>
     </message>
     <message>
         <source>Online import</source>
@@ -1406,7 +1406,7 @@ Do you want to discard the changes?
     </message>
     <message>
         <source>Add component</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Προσθήκη στοιχείου</translation>
     </message>
     <message>
         <source>Component name</source>
@@ -1418,27 +1418,27 @@ Do you want to discard the changes?
     </message>
     <message>
         <source>Drum&amp;kits</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδες &amp;Κρουστών</translation>
     </message>
     <message>
         <source>&amp;View</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προβολή</translation>
     </message>
     <message>
         <source>&amp;Automation path</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Διαδρομή αυτοματισμού</translation>
     </message>
     <message>
         <source>Full screen</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλήρης οθόνη</translation>
     </message>
     <message>
         <source>&amp;Options</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επιλογές</translation>
     </message>
     <message>
         <source>MIDI setup advice</source>
-        <translation type="unfinished"></translation>
+        <translation>Συμβουλή ΜΙΝΤΙ στησίματος</translation>
     </message>
     <message>
         <source>MIDI out notes are not configured for this drumkit, so exporting this song to MIDI file may fail. Would you like Hydrogen to automatically fix this by assigning default values?</source>
@@ -1514,18 +1514,18 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Action</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενέργεια</translation>
     </message>
 </context>
 <context>
     <name>Mixer</name>
     <message>
         <source>Show FX panel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Προβολή του πλαίσιου</translation>
     </message>
     <message>
         <source>Show instrument peaks</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή των κορυφών του οργάνου</translation>
     </message>
     <message>
         <source>Set FX %1 level </source>
@@ -1533,11 +1533,11 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Show instrument peaks = On</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή των κορυφών του οργάνου = Ενεργό</translation>
     </message>
     <message>
         <source>Show instrument peaks = Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή των κορυφών του οργάνου = Ανενεργό</translation>
     </message>
     <message>
         <source>Set LADSPA FX ( %1 ) volume</source>
@@ -1549,30 +1549,30 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Mixer</source>
-        <translation type="unfinished">Μίκτης</translation>
+        <translation>Μείκτης</translation>
     </message>
 </context>
 <context>
     <name>MixerLine</name>
     <message>
         <source>Play sample</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή δείγματος</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished">Σίγηση</translation>
+        <translation>Σίγηση</translation>
     </message>
     <message>
         <source>Solo</source>
-        <translation type="unfinished"></translation>
+        <translation>Μόνο του</translation>
     </message>
     <message>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Πανόψη</translation>
     </message>
     <message>
         <source>Instrument name (double click to edit)</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα του όργανου (διπλό κλικ για επεξργασία)</translation>
     </message>
     <message>
         <source>Set instrument volume [%1]</source>
@@ -1587,19 +1587,19 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     <name>PatternEditorPanel</name>
     <message>
         <source>Loaded Soundlibrary</source>
-        <translation type="unfinished"></translation>
+        <translation>Φορτωμένη Βιβλιοθήκη Ήχων</translation>
     </message>
     <message>
         <source>Select pattern size</source>
-        <translation type="unfinished"></translation>
+        <translation>Επέλεξε το μέγεθος της μήτρας</translation>
     </message>
     <message>
         <source>Select grid resolution</source>
-        <translation type="unfinished"></translation>
+        <translation>Επέλεξε την ανάλυση του πλέγματος</translation>
     </message>
     <message>
         <source>Hear new notes</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκουσμα νέων στιγμάτων</translation>
     </message>
     <message>
         <source>Quantize keyboard/midi events to grid</source>
@@ -1619,15 +1619,15 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Zoom in</source>
-        <translation type="unfinished"></translation>
+        <translation>Εστίαση</translation>
     </message>
     <message>
         <source>Zoom out</source>
-        <translation type="unfinished"></translation>
+        <translation>Απεστίαση</translation>
     </message>
     <message>
         <source>Select note properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Επέλεξε τις ιδιότητες του στίγματος</translation>
     </message>
     <message>
         <source>Velocity</source>
@@ -1635,7 +1635,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Πανόψη</translation>
     </message>
     <message>
         <source>Lead and Lag</source>
@@ -1647,19 +1647,19 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Pattern editor - %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργαστής μητρών - %1</translation>
     </message>
     <message>
         <source>No pattern selected</source>
-        <translation type="unfinished"></translation>
+        <translation>Δε επιλέχτηκε καμία μήτρα</translation>
     </message>
     <message>
         <source>Hear new notes = On</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκουσμα νέων στιγμάτων = Ενεργό</translation>
     </message>
     <message>
         <source>Hear new notes = Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Άκουσμα νέων στιγμάτων = Ανενεργό</translation>
     </message>
     <message>
         <source>Quantize incoming keyboard/midi events = On</source>
@@ -1667,34 +1667,34 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Quantize incoming keyboard/midi events = Off</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Show drum editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή του επεξεργαστή κρουστών</translation>
     </message>
     <message>
         <source>Is not possible to change the pattern size when playing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είναι δυνατή η αλλαγή του μέγεθους της μήτρας κατά την αναπαραγωγή.</translation>
     </message>
     <message>
         <source>Cutoff</source>
-        <translation type="unfinished"></translation>
+        <translation>Όριο Αποκοπής</translation>
     </message>
     <message>
         <source>Resonance</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντήχηση</translation>
     </message>
     <message>
         <source>Probability</source>
-        <translation type="unfinished"></translation>
+        <translation>Πιθανότητα</translation>
     </message>
 </context>
 <context>
     <name>PatternFillDialog</name>
     <message>
         <source>Fill with selected pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Γέμισμα με την επιλεγμένη μήτρα</translation>
     </message>
 </context>
 <context>
@@ -1705,7 +1705,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>&amp;Clear</source>
-        <translation>&amp;Εκκαθάριση</translation>
+        <translation>&amp;Καθάρισμα</translation>
     </message>
     <message>
         <source>To:</source>
@@ -1740,15 +1740,15 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     <name>PatternPropertiesDialog</name>
     <message>
         <source>Pattern properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες της μήτρας</translation>
     </message>
     <message>
         <source>%1#2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1#2</translation>
     </message>
     <message>
         <source>%1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1</translation>
     </message>
 </context>
 <context>
@@ -1783,18 +1783,18 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Pattern description</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιγραφή της μήτρας</translation>
     </message>
 </context>
 <context>
     <name>PianoRollEditor</name>
     <message>
         <source>Velocity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ταχύτητα</translation>
     </message>
     <message>
         <source>Pan</source>
-        <translation type="unfinished"></translation>
+        <translation>Πανόψη</translation>
     </message>
     <message>
         <source>Lead and Lag</source>
@@ -1809,23 +1809,23 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Ηχογράφηση</translation>
     </message>
     <message>
         <source>Destructive Record</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταστροφική Ηχογράφηση</translation>
     </message>
     <message>
         <source>Play/ Pause</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναπαραγωγή/Παύση</translation>
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταμάτημα</translation>
     </message>
     <message>
         <source>Fast Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Γρήγορα Μροστά</translation>
     </message>
     <message>
         <source>Loop song</source>
@@ -1833,7 +1833,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Pattern Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση Λειτουργίας Μήτρας</translation>
     </message>
     <message>
         <source>Song Mode</source>
@@ -1841,7 +1841,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>BeatCounter Panel on</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Πλαίσιο του ΜετρητήΧτύπων ενεργό</translation>
     </message>
     <message>
         <source>Set BPM / Set BPM and play</source>
@@ -1853,23 +1853,23 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Switch metronome on/off</source>
-        <translation type="unfinished"></translation>
+        <translation>Εναλλαγή της ενεργοποίησης/απενεργοποίησης του μετρονόμου</translation>
     </message>
     <message>
         <source>Jack-transport on/off</source>
-        <translation type="unfinished"></translation>
+        <translation>Μεταφορά-ΤΖΑΚ ενεργή/ανενεργή</translation>
     </message>
     <message>
         <source>Jack-Time-Master on/off</source>
-        <translation type="unfinished"></translation>
+        <translation>Κύριος-Χρόνου-ΤΖΑΚ ενεργός/ανενεργός</translation>
     </message>
     <message>
         <source>Show mixer</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή του Μείκτη</translation>
     </message>
     <message>
         <source>Mixer</source>
-        <translation type="unfinished">Μίκτης</translation>
+        <translation>Μείκτης</translation>
     </message>
     <message>
         <source>Show Instrument Rack</source>
@@ -1889,23 +1889,23 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Destructive mode = Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταστροφική Κατάσταση Λειτουργίας = Ανενεργή</translation>
     </message>
     <message>
         <source>Destructive mode = On</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταστροφική Κατάσταση Λειτουργίας = Ενεργή</translation>
     </message>
     <message>
         <source>Playing.</source>
-        <translation type="unfinished"></translation>
+        <translation>Παίζει.</translation>
     </message>
     <message>
         <source>Pause.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σε παύση.</translation>
     </message>
     <message>
         <source>Stopped.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταματημένο.</translation>
     </message>
     <message>
         <source>Song mode selected.</source>
@@ -1913,15 +1913,15 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Pattern mode selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέχτηκε κατάσταση λειτουργίας μήτρας.</translation>
     </message>
     <message>
         <source> BC Panel on</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλαίσιο του Μετ.Χτύπ. ενεργό</translation>
     </message>
     <message>
         <source> BC Panel off</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλαίσιο του Μετ.Χτύπ. ανενεργό</translation>
     </message>
     <message>
         <source> Count BPM and start PLAY</source>
@@ -1945,7 +1945,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Jack-transport mode = Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση λειτοργίας μεταφοράς-ΤΖΑΚ = Ανενεργή</translation>
     </message>
     <message>
         <source>JACK-transport will work only with JACK driver.</source>
@@ -1953,11 +1953,11 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source> Jack-Time-Master mode = On</source>
-        <translation type="unfinished"></translation>
+        <translation>ΤΖΑΚ-Χρόνος-Κύρια λειτουργία = Ενεργή</translation>
     </message>
     <message>
         <source> Jack-Time-Master mode = Off</source>
-        <translation type="unfinished"></translation>
+        <translation>ΤΖΑΚ-Χρόνος-Κύρια λειτουργία = Ανενεργή</translation>
     </message>
     <message>
         <source>New BPM value</source>
@@ -1980,31 +1980,31 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>&amp;Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Κατάστιχο αναπαραγωγής</translation>
     </message>
     <message>
         <source>Add song to Play&amp;list</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη τραγουδιού στο &amp;Κατάστιχο Αναπαραγωγής</translation>
     </message>
     <message>
         <source>Add &amp;current song to Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη του παρώντος τραγουδιού στο Κατάστιχο Αναπαραγωγής</translation>
     </message>
     <message>
         <source>&amp;Remove selected song from Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Απομάκ&amp;ρυνση του επιλεγμένου τραγουδιού από το κατάστιχο αναπαραγωγής</translation>
     </message>
     <message>
         <source>&amp;New Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Νέο Κατάστιχο Αναπαραγωγής</translation>
     </message>
     <message>
         <source>&amp;Open Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Άν&amp;οιγμα Κατάστιχου Αναπαραγωγής</translation>
     </message>
     <message>
         <source>&amp;Save Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευ&amp;ση του Κατάστιχου Αναπαραγωγής</translation>
     </message>
     <message>
         <source>Save Playlist &amp;as</source>
@@ -2012,23 +2012,23 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>&amp;Scripts</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Σενάρια</translation>
     </message>
     <message>
         <source>&amp;Add Script to selected song</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Προσθήκη Σενάριου στο επιλεγμένο τραγούδι</translation>
     </message>
     <message>
         <source>&amp;Edit selected Script</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επεξεργασία του επιλεγμένου Σενάριου</translation>
     </message>
     <message>
         <source>&amp;Remove selected Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Απομάκ&amp;ρυνση του επιλεγμένου Σενάριου</translation>
     </message>
     <message>
         <source>&amp;Create a new Script</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Δημιουργία ενός νέου Σενάριου</translation>
     </message>
     <message>
         <source>Rewind</source>
@@ -2040,11 +2040,11 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Stop</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταμάτημα</translation>
     </message>
     <message>
         <source>Fast Forward</source>
-        <translation type="unfinished"></translation>
+        <translation>Γρήγορα Μροστά</translation>
     </message>
     <message>
         <source>Song list</source>
@@ -2052,7 +2052,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Σενάριο</translation>
     </message>
     <message>
         <source>exec Script</source>
@@ -2060,11 +2060,11 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>sort</source>
-        <translation type="unfinished"></translation>
+        <translation>ταξινόμηση</translation>
     </message>
     <message>
         <source>Add Song to PlayList</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη τραγουδιού στο Κατάστιχο Αναπαραγωγής</translation>
     </message>
     <message>
         <source>Please save your song first</source>
@@ -2088,7 +2088,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>New Script</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέο Σενάριο</translation>
     </message>
     <message>
         <source>Script name or path to the script contains whitespaces.
@@ -2128,7 +2128,7 @@ Sorry, but this will not work for the moment.</source>
     </message>
     <message>
         <source>Add Script to selected Song</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσθήκη Σενάριου στο επιλεγμένο Τραγούδι</translation>
     </message>
     <message>
         <source>No Script in use!</source>
@@ -2144,11 +2144,11 @@ Sorry, but this will not work for the moment.</source>
     </message>
     <message>
         <source>Error loading song.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα στο φόρτωμα του τραγουδιού.</translation>
     </message>
     <message>
         <source>Pause.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σε παύση.</translation>
     </message>
     <message>
         <source>Playlist: set song no. %1</source>
@@ -2156,7 +2156,7 @@ Sorry, but this will not work for the moment.</source>
     </message>
     <message>
         <source>File not found: </source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν βρέθηκε το αρχείο:</translation>
     </message>
     <message>
         <source>No valid song selected!</source>
@@ -2171,11 +2171,11 @@ Do you want to discard the changes?
     </message>
     <message>
         <source>&amp;Discard</source>
-        <translation type="unfinished"></translation>
+        <translation>Από&amp;ρριψη</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">Α&amp;κύρωση</translation>
+        <translation>Α&amp;κύρωση</translation>
     </message>
     <message>
         <source>Script name or path to the script contains whitespaces.
@@ -2196,26 +2196,26 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Song list</source>
-        <translation>Λίστα τραγουδιών</translation>
+        <translation type="unfinished">Λίστα τραγουδιών</translation>
     </message>
 </context>
 <context>
     <name>PreferencesDialog</name>
     <message>
         <source>Preferences</source>
-        <translation type="unfinished"></translation>
+        <translation>Προτιμήσεις</translation>
     </message>
     <message>
         <source>Slow</source>
-        <translation type="unfinished">Αργά</translation>
+        <translation>Αργά</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation type="unfinished">Κανονικά</translation>
+        <translation>Κανονικά</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation type="unfinished">Γρήγορα</translation>
+        <translation>Γρήγορα</translation>
     </message>
     <message>
         <source>Driver restart required.
@@ -2224,39 +2224,39 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished">&amp;Εντάξει</translation>
+        <translation>&amp;Εντάξει</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">Α&amp;κύρωση</translation>
+        <translation>Α&amp;κύρωση</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Automatic driver selection&lt;/b&gt;</source>
+        <source>&lt;b>Automatic driver selection&lt;/b></source>
+        <translation>&lt;b>Αυτόματη επιλογή οδηγού&lt;/b></translation>
+    </message>
+    <message>
+        <source>&lt;b>Open Sound System&lt;/b>&lt;br>Simple audio driver [/dev/dsp]</source>
+        <translation>&lt;b>Σύστημα Ανοιχτού Ήχου OSS&lt;/b>&lt;br>Απλός οδηγός ήχου [/dev/dsp]</translation>
+    </message>
+    <message>
+        <source>&lt;br>&lt;b>&lt;font color="red">Not compiled&lt;/font>&lt;/b></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Open Sound System&lt;/b&gt;&lt;br&gt;Simple audio driver [/dev/dsp]</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b>Jack Audio Connection Kit Driver&lt;/b>&lt;br>Low latency audio driver</source>
+        <translation>&lt;b>Οδηγός Jack Audio Connection Kit&lt;/b>&lt;br>Οδηγός ήχου χαμηλής καθυστέρησης φάσης</translation>
     </message>
     <message>
-        <source>&lt;br&gt;&lt;b&gt;&lt;font color=&quot;red&quot;&gt;Not compiled&lt;/font&gt;&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b>ALSA Driver&lt;/b>&lt;br></source>
+        <translation>&lt;b>Οδηγός ALSA&lt;/b>&lt;br></translation>
     </message>
     <message>
-        <source>&lt;b&gt;Jack Audio Connection Kit Driver&lt;/b&gt;&lt;br&gt;Low latency audio driver</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b>PortAudio Driver&lt;/b>&lt;br></source>
+        <translation>&lt;b>Οδηγός Ήχου PortAudio&lt;/b>&lt;br></translation>
     </message>
     <message>
-        <source>&lt;b&gt;ALSA Driver&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;PortAudio Driver&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>&lt;b&gt;CoreAudio Driver&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b>CoreAudio Driver&lt;/b>&lt;br></source>
+        <translation>&lt;b>Οδηγός ήχου CoreAudio&lt;/b>&lt;br></translation>
     </message>
     <message>
         <source>Please restart hydrogen to enable/disable LASH support</source>
@@ -2264,19 +2264,19 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Automatic</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτόματο</translation>
     </message>
     <message>
         <source>Steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Βήματα</translation>
     </message>
     <message>
         <source>Fixed</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;b&gt;PulseAudio Driver&lt;/b&gt;&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <source>&lt;b>PulseAudio Driver&lt;/b>&lt;br></source>
+        <translation>&lt;b>Οδηγός Ήχου PulseAudio&lt;/b>&lt;br></translation>
     </message>
     <message>
         <source>Number of steps</source>
@@ -2292,7 +2292,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     <message>
         <source>Buffer size</source>
         <translation>Μέγεθος της 
-μικροαποθήκευσης</translation>
+μικραποθήκευσης</translation>
     </message>
     <message>
         <source>Device</source>
@@ -2316,15 +2316,15 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Slow</source>
-        <translation>Αργά</translation>
+        <translation>Αργή</translation>
     </message>
     <message>
         <source>Normal</source>
-        <translation>Κανονικά</translation>
+        <translation>Κανονική</translation>
     </message>
     <message>
         <source>Fast</source>
-        <translation>Γρήγορα</translation>
+        <translation>Γρήγορη</translation>
     </message>
     <message>
         <source>Application font</source>
@@ -2332,7 +2332,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Mixer font</source>
-        <translation>Γραμματοσειρά του μίκτη</translation>
+        <translation>Γραμματοσειρά του μείκτη</translation>
     </message>
     <message>
         <source>Select font</source>
@@ -2377,7 +2377,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Midi driver</source>
-        <translation>Οδηγός Midi</translation>
+        <translation>Οδηγός ΜΙΝΤΙ</translation>
     </message>
     <message>
         <source>Ignore note-off</source>
@@ -2393,11 +2393,11 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Alt+C</source>
-        <translation></translation>
+        <translation>Alt+C</translation>
     </message>
     <message>
         <source>Alt+O</source>
-        <translation></translation>
+        <translation>Alt+O</translation>
     </message>
     <message>
         <source>&amp;Reopen last used song</source>
@@ -2422,7 +2422,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>48000</source>
-        <translation></translation>
+        <translation>48000</translation>
     </message>
     <message>
         <source>88200</source>
@@ -2430,7 +2430,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>96000</source>
-        <translation></translation>
+        <translation>96000</translation>
     </message>
     <message>
         <source>Alt+D</source>
@@ -2502,11 +2502,11 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Restart output</source>
-        <translation>Επανεκκίνηση του εξαγόμενου</translation>
+        <translation>Επανεκκίνηση του εξαγώμενου</translation>
     </message>
     <message>
         <source>Audio output details</source>
-        <translation>Λεπτομέρειες του εξαγόμενου ήχου</translation>
+        <translation>Λεπτομέρειες του εξαγώμενου ήχου</translation>
     </message>
     <message>
         <source>Post-Fader</source>
@@ -2518,7 +2518,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Track output</source>
-        <translation>Εξαγόμενο του καναλιού</translation>
+        <translation>Εξαγώμενου του καναλιού</translation>
     </message>
     <message>
         <source>Use lash</source>
@@ -2526,12 +2526,12 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>first step, adjust timing mismatch between controller/keyboard trigger latency and computed bpm</source>
-        <translation>πρώτο βήμα: προσάρμοσε την ασυνέπεια, μεταξύ της καθυστέρησης της ενεργοποίησης του ελεγκτή (πληκτρολογίου), και των υπολογισμένων ΧτύπωνΑνάΛεπτό</translation>
+        <translation>βήμα πρώτο: προσάρμοσε τη χρονική ασυνέπεια, μεταξύ, της καθυστέρησης φάσης της ενεργοποίησης του ελεγκτή εισόδου ή του πληκτρολόγιου, και των υπολογισμένων ΧτύπωνΑνάΛεπτό</translation>
     </message>
     <message>
         <source>Beat counter drift compensation in 1/10 ms   </source>
         <translation>Αποζημίωση της απώλειας του μετρητή χτύπων,
-σε 1/10χιλδευτ.   </translation>
+σε 1/10 του χιλιοστοδευτερόλεπτου</translation>
     </message>
     <message>
         <source>second step, adjust offset between last controller/keybord trigger and the deferred sequencer startup </source>
@@ -2540,7 +2540,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     <message>
         <source>Beat counter start offset in ms    </source>
         <translation>Διαφοροποίηση της εκκίνησης του μετρητή χτύπων,
-σε χιλδευτ.   </translation>
+σε χιλιοστοδευτερόλεπτα.   </translation>
     </message>
     <message>
         <source>Path to the Rubberband command-line utility</source>
@@ -2552,7 +2552,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>&amp;Reopen last used playlist</source>
-        <translation>&amp;Ξανάνοιγμα της τελευταίας 
+        <translation>&amp;Ξανά άνοιγμα της τελευταίας 
 χρησιμοποιημένης λίστας αναπαραγωγής</translation>
     </message>
     <message>
@@ -2561,23 +2561,23 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Linear</source>
-        <translation type="unfinished">Γραμμική</translation>
+        <translation>Γραμμική</translation>
     </message>
     <message>
         <source>Cosine</source>
-        <translation type="unfinished">Συνημίτονου</translation>
+        <translation>Συνημίτονου</translation>
     </message>
     <message>
         <source>Third</source>
-        <translation type="unfinished">Τρίτη</translation>
+        <translation>Τρίτη</translation>
     </message>
     <message>
         <source>Cubic</source>
-        <translation type="unfinished">Κυβική</translation>
+        <translation>Κυβική</translation>
     </message>
     <message>
         <source>Hermite</source>
-        <translation type="unfinished">Του Χερμάιτ</translation>
+        <translation>Του Χερμάιτ</translation>
     </message>
     <message>
         <source>Default interface layout</source>
@@ -2597,10 +2597,10 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Coloring method for Song Editor elements</source>
-        <translation type="unfinished"></translation>
+        <translation>Μέθοδος χρωματισμού για τα στοιχεία του Επεξεργαστή Τραγουδιών</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-style:italic;&quot;&gt;After changing a font or the interface layout the application must be restarted.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html>&lt;head/>&lt;body>&lt;p>&lt;span style=" font-style:italic;">After changing a font or the interface layout the application must be restarted.&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2613,7 +2613,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Discard midi messages after action has been triggered</source>
-        <translation type="unfinished"></translation>
+        <translation>Απόρριψη των μηνυμάτων ΜΙΝΤΙ, αφού έχει, πρώτα, εκκινήσει μία ενέργεια</translation>
     </message>
     <message>
         <source>Create per-instrument outputs</source>
@@ -2633,10 +2633,10 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Incoming port</source>
-        <translation type="unfinished"></translation>
+        <translation>Θύρα εισερχόμενων</translation>
     </message>
     <message>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Port which will be used to receive incoming OSC messages&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html>&lt;head/>&lt;body>&lt;p>Port which will be used to receive incoming OSC messages&lt;/p>&lt;/body>&lt;/html></source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2653,11 +2653,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished">&amp;Εντάξει</translation>
+        <translation>&amp;Εντάξει</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">Α&amp;κύρωση</translation>
+        <translation>Α&amp;κύρωση</translation>
     </message>
     <message>
         <source>Close dialog! maybe there is some unsaved work on sample.
@@ -2741,7 +2741,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>off</source>
-        <translation>απενεργοποιημένο</translation>
+        <translation>ανενεργό</translation>
     </message>
     <message>
         <source>1/64</source>
@@ -2913,63 +2913,63 @@ Are you sure?</source>
     </message>
     <message>
         <source>Loop</source>
-        <translation>Ανακύκλωση</translation>
+        <translation type="unfinished">Ανακύκλωση</translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Loop&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;mode&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Sans'; font-size:8pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:7pt;">Loop&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:7pt;">mode&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Ανακύκλωση&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;λειτουργία&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Sans'; font-size:8pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:7pt;">Ανακύκλωση&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:7pt;">λειτουργία&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Loop&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Count&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Sans'; font-size:8pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:7pt;">Loop&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:7pt;">Count&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;Sans&apos;; font-size:8pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Ανακύκλωση&lt;/span&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:7pt;&quot;&gt;Μέτρηση&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'Sans'; font-size:8pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:7pt;">Ανακύκλωση&lt;/span>&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;span style=" font-size:7pt;">Μέτρηση&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>End</source>
         <translation>Τέλος</translation>
     </message>
     <message>
-        <source>&quot;Rubberband Audio Processor&quot; : Change the tempo (sample length) and pitch of audio.</source>
-        <translation>&quot;Rubberband Επεξεργαστής Ήχου&quot; : Άλλαξε το ρυθμό (μήκος δείγματος) και τον τόνο του ήχου.</translation>
+        <source>"Rubberband Audio Processor" : Change the tempo (sample length) and pitch of audio.</source>
+        <translation>"Rubberband Επεξεργαστής Ήχου" : Άλλαξε το ρυθμό (μήκος δείγματος) και τον τόνο του ήχου.</translation>
     </message>
     <message>
         <source> Pitch (Semitone,Cent)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+        <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
 p, li { white-space: pre-wrap; }
-&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:&apos;DejaVu Sans&apos;; font-size:9pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&quot;Crispness&quot; levels:&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;  0   equivalent to --no-transients --no-lamination --window-long&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;  1   equivalent to --no-transients --no-lamination&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;  2   equivalent to --no-transients&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;  3   equivalent to --bl-transients&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;  4   default processing options&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;  5   equivalent to --no-lamination --window-short (may be good for drums)&lt;/p&gt;
-&lt;p style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;you can find more information here:&lt;/p&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;http://www.breakfastquay.com/rubberband/ &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://www.breakfastquay.com/rubberband/ &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:9pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">"Crispness" levels:&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  0   equivalent to --no-transients --no-lamination --window-long&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  1   equivalent to --no-transients --no-lamination&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  2   equivalent to --no-transients&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  3   equivalent to --bl-transients&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  4   default processing options&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  5   equivalent to --no-lamination --window-short (may be good for drums)&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">you can find more information here:&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;a href="http://www.breakfastquay.com/rubberband/ ">&lt;span style=" text-decoration: underline; color:#0000ff;">http://www.breakfastquay.com/rubberband/ &lt;/span>&lt;/a>&lt;/p>&lt;/body>&lt;/html></source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2984,8 +2984,8 @@ p, li { white-space: pre-wrap; }
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Don&apos;t show this message anymore</source>
-        <translation type="unfinished"></translation>
+        <source>Don't show this message anymore</source>
+        <translation>Να μην προβάλεται αυτό το μήνυμα, από εδώ και πέρα</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -3008,19 +3008,19 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Clear pattern sequence</source>
-        <translation type="unfinished"></translation>
+        <translation>Καθάρισμα της ακολουθίας της μήτρας</translation>
     </message>
     <message>
         <source>Create new pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία νέας μήτρας</translation>
     </message>
     <message>
         <source>Move the selected pattern down</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση, προς τα κάτω, της επιλεγμένης μήτρας</translation>
     </message>
     <message>
         <source>Move the selected pattern up</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση, προς τα πάνω, της επιλεγμένης μήτρας</translation>
     </message>
     <message>
         <source>Select mode</source>
@@ -3028,7 +3028,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Draw mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση λειτουργίας σχεδίασης</translation>
     </message>
     <message>
         <source>stacked mode</source>
@@ -3036,40 +3036,42 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Pattern %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήτρα %1</translation>
     </message>
     <message>
         <source>Warning, this will erase your pattern sequence.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση: αυτό θα διαγράψει την ακολουθία της μήτρας σου.
+
+Στα σίγουρα;</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished">&amp;Εντάξει</translation>
+        <translation>&amp;Εντάξει</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">Α&amp;κύρωση</translation>
+        <translation>Α&amp;κύρωση</translation>
     </message>
     <message>
         <source>stacked pattern mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">κατάσταση λειτουργίας  μήτρας</translation>
     </message>
     <message>
         <source>single pattern mode</source>
-        <translation type="unfinished"></translation>
+        <translation>κατάσταση λειτουργίας μονής μήτρας</translation>
     </message>
     <message>
         <source>View playback track</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή του καναλιού αναπαραγωγής</translation>
     </message>
     <message>
         <source>Mute playback track</source>
-        <translation type="unfinished"></translation>
+        <translation>Σίγηση του καναλιού αναπαραγωγής</translation>
     </message>
     <message>
         <source>Choose playback track</source>
-        <translation type="unfinished"></translation>
+        <translation>Επέλεξε κανάλι αναπαραγωγής</translation>
     </message>
     <message>
         <source>View timeline</source>
@@ -3077,7 +3079,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Adjust parameter values in time</source>
-        <translation type="unfinished"></translation>
+        <translation>Προσαρμογή των τιμών της παράμετρου, στο χρόνο</translation>
     </message>
     <message>
         <source>Velocity</source>
@@ -3085,7 +3087,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Select playback track</source>
-        <translation type="unfinished"></translation>
+        <translation>Επέλεξε κανάλι αναπαραγωγής</translation>
     </message>
 </context>
 <context>
@@ -3158,31 +3160,31 @@ Are you sure?</source>
     <name>SongEditorPatternList</name>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Αντιγραφή</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Διαγραφή</translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>Fill/Clear ...</source>
-        <translation type="unfinished"></translation>
+        <translation>Γέμισμα/Καθάρισμα ...</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες</translation>
     </message>
     <message>
         <source>Load Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωμα Μήτρας</translation>
     </message>
     <message>
         <source>Save Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση Μήτρας</translation>
     </message>
     <message>
         <source>Virtual Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Εικονική Μήτρα</translation>
     </message>
     <message>
         <source>Hydrogen Pattern (*.h2pattern)</source>
@@ -3190,32 +3192,34 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Μήτρας</translation>
     </message>
     <message>
         <source>The pattern-file exists. 
 Overwrite the existing pattern?</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπάρχει το αρχείο μήτρας.
+
+Να επανωγραφεί η υπάρχουσα μήτρα;</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished">&amp;Εντάξει</translation>
+        <translation>&amp;Εντάξει</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">Α&amp;κύρωση</translation>
+        <translation>Α&amp;κύρωση</translation>
     </message>
     <message>
         <source>Pattern 1</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήτρα 1</translation>
     </message>
     <message>
         <source>not_categorized</source>
-        <translation type="unfinished"></translation>
+        <translation>μη_ταξινομημένο</translation>
     </message>
     <message>
         <source>Export Pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγής Μήτρας</translation>
     </message>
 </context>
 <context>
@@ -3272,7 +3276,7 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Directory</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -3287,7 +3291,7 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Drumkit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδα Κρουστών</translation>
     </message>
     <message>
         <source>Component</source>
@@ -3299,38 +3303,38 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <source>Browse...</source>
-        <translation type="unfinished">Αναζήτηση...</translation>
+        <translation>Εξερεύνηση...</translation>
     </message>
     <message>
         <source>0.9.7 and higher</source>
-        <translation type="unfinished"></translation>
+        <translation>0.9.7 και χαμηλώτερο</translation>
     </message>
     <message>
         <source>0.9.6 and lower</source>
-        <translation type="unfinished"></translation>
+        <translation>0.9.6 και χαμηλώτερο</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
 </context>
 <context>
     <name>SoundLibraryImportDialog</name>
     <message>
         <source>Sound Library import</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή Βιβλιοθήκης Ήχων</translation>
     </message>
     <message>
         <source>Sound library</source>
-        <translation type="unfinished">Βιβλιοθήκη ήχων</translation>
+        <translation>Βιβλιοθήκη ήχων</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση</translation>
     </message>
     <message>
         <source>Updating SoundLibrary list...</source>
@@ -3338,27 +3342,27 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Drumkits</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδες Κρουστών</translation>
     </message>
     <message>
         <source>Songs</source>
-        <translation type="unfinished"></translation>
+        <translation>Τραγούδια</translation>
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished">Μήτρες</translation>
+        <translation>Μήτρες</translation>
     </message>
     <message>
         <source>Installed</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγκατεστημένο</translation>
     </message>
     <message>
         <source>New</source>
-        <translation type="unfinished"></translation>
+        <translation>Νέα</translation>
     </message>
     <message>
         <source>Author: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργός: %1</translation>
     </message>
     <message>
         <source>Downloading SoundLibrary...</source>
@@ -3370,11 +3374,11 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>An error occurred importing the SoundLibrary.</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρουσιάστηκε κάποιο σφάλμα στην εισαγωγή της ΒιβλιοθήκηςΉχων.</translation>
     </message>
     <message>
         <source>Import drumkit</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή ομάδας κρουστών</translation>
     </message>
     <message>
         <source>Drumkit License: %1</source>
@@ -3417,7 +3421,7 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Browse...</source>
-        <translation>Αναζήτηση...</translation>
+        <translation>Εξερεύνηση...</translation>
     </message>
     <message>
         <source>Install</source>
@@ -3456,86 +3460,92 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωμα</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
 </context>
 <context>
     <name>SoundLibraryPanel</name>
     <message>
         <source>Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωμα</translation>
     </message>
     <message>
         <source>Export</source>
-        <translation type="unfinished">Εξαγωγή</translation>
+        <translation>Εξαγωγή</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Διαγραφή</translation>
+        <translation>Διαγραφή</translation>
     </message>
     <message>
         <source>System drumkits</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδες κρουστών του συστήματος</translation>
     </message>
     <message>
         <source>User drumkits</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομάδες κρουστών του χρήστη</translation>
     </message>
     <message>
         <source>Songs</source>
-        <translation type="unfinished"></translation>
+        <translation>Τραγούδια</translation>
     </message>
     <message>
         <source>Patterns</source>
-        <translation type="unfinished">Μήτρες</translation>
+        <translation>Μήτρες</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
-        <translation type="unfinished">&amp;Εντάξει</translation>
+        <translation>&amp;Εντάξει</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation type="unfinished">Α&amp;κύρωση</translation>
+        <translation>Α&amp;κύρωση</translation>
     </message>
     <message>
         <source>Error loading song.</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα στο φόρτωμα του τραγουδιού.</translation>
     </message>
     <message>
         <source>Warning, the selected pattern will be deleted from disk.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση: η επιλεγμένη μήτρα θα διαγραφεί από το δίσκο.
+
+Στα σίγουρα;</translation>
     </message>
     <message>
         <source>It is not possible to delete the currently loaded drumkit: 
-  &quot;%1&quot;.
+  "%1".
 To delete this drumkit first load another drumkit.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν είναι δυνατή η διαγραφή της ομάδας κρουστών που είναι, τώρα, φορτωμένη: 
+  "%1".
+To delete this drumkit first load another drumkit.</translation>
     </message>
     <message>
-        <source>&quot;%1&quot;is a system drumkit and can&apos;t be deleted.</source>
-        <translation type="unfinished"></translation>
+        <source>"%1"is a system drumkit and can't be deleted.</source>
+        <translation>Το "%1" είναι ομάδα κρουστών του συστήματος, και δεν μπορεί να διαγραφεί.</translation>
     </message>
     <message>
-        <source>Warning, the &quot;%1&quot; drumkit will be deleted from disk.
+        <source>Warning, the "%1" drumkit will be deleted from disk.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Προειδοποίηση: η ομάδα κρουστών "%1" θα διαγραφεί από το δίσκο.
+
+Στα σίγουρα;</translation>
     </message>
     <message>
         <source>Drumkit deletion failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποτυχία διαγραφής της ομάδας κρουστών.</translation>
     </message>
     <message>
         <source>Keep</source>
-        <translation type="unfinished"></translation>
+        <translation>Διατήρηση</translation>
     </message>
     <message>
         <source>The existing kit has %1 instruments but the new one only has %2.
@@ -3585,11 +3595,11 @@ Would you like to keep or discard the remaining instruments and notes?
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Εικόνα</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Αναζήτηση</translation>
+        <translation>Εξερεύνηση</translation>
     </message>
     <message>
         <source>Image License</source>
@@ -3604,11 +3614,11 @@ Would you like to keep or discard the remaining instruments and notes?
     </message>
     <message>
         <source>Edit server list</source>
-        <translation type="unfinished">Επεξεργασία της λίστας των εξυπηρετητών</translation>
+        <translation>Επεξεργασία της λίστας των εξυπηρετητών</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Διεύθυνση URL</translation>
     </message>
 </context>
 <context>
@@ -3638,7 +3648,9 @@ Would you like to keep or discard the remaining instruments and notes?
     </message>
     <message>
         <source>A library with the same name already exists. Do you want to overwrite the existing library?</source>
-        <translation type="unfinished"></translation>
+        <translation>Υπάρχει, ήδη, μία βιβλιοθήκη με το ίδιο όνομα. 
+
+Θέλεις να επανωγραφεί η υπάρχουσα βιβλιοθήκη;</translation>
     </message>
     <message>
         <source>Saving of this library failed.</source>
@@ -3646,11 +3658,11 @@ Would you like to keep or discard the remaining instruments and notes?
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished">Άνοιγμα Εικόνας</translation>
+        <translation>Άνοιγμα Εικόνας</translation>
     </message>
     <message>
         <source>Image Files (*.png *.jpg *.jpeg)</source>
-        <translation type="unfinished">Αρχεία Εικόνας (*.png *.jpg *.jpeg)</translation>
+        <translation>Αρχεία Εικόνας (*.png *.jpg *.jpeg)</translation>
     </message>
 </context>
 <context>
@@ -3685,11 +3697,11 @@ Would you like to keep or discard the remaining instruments and notes?
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Εικόνα</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Αναζήτηση</translation>
+        <translation>Εξερεύνηση</translation>
     </message>
     <message>
         <source>Image License</source>
@@ -3700,14 +3712,14 @@ Would you like to keep or discard the remaining instruments and notes?
     <name>SoundLibraryTree</name>
     <message>
         <source>Sound library</source>
-        <translation type="unfinished">Βιβλιοθήκη ήχων</translation>
+        <translation>Βιβλιοθήκη ήχων</translation>
     </message>
 </context>
 <context>
     <name>VirtualPatternDialog</name>
     <message>
         <source>Select virtual pattern</source>
-        <translation type="unfinished"></translation>
+        <translation>Επέλεξε την εικονική μήτρα</translation>
     </message>
 </context>
 <context>
