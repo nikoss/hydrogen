@@ -249,7 +249,7 @@
     </message>
     <message>
         <source>&amp;Filename to instrument name</source>
-        <translation type="unfinished">&amp;Διατήρηση του ονόματος</translation>
+        <translation>&amp;Το όνομα αρχείου στο όνομα του οργάνου</translation>
     </message>
     <message>
         <source>&amp;Stop</source>
@@ -280,7 +280,7 @@
     </message>
     <message>
         <source>Component name</source>
-        <translation type="unfinished">Όνομα του στοιχείου</translation>
+        <translation>Όνομα του συστατικού</translation>
     </message>
     <message>
         <source>Set instrument volume [%1]</source>
@@ -291,7 +291,7 @@
     <name>Director</name>
     <message>
         <source>Director</source>
-        <translation type="unfinished">Καθοδηγητής</translation>
+        <translation>Ενορχηστρωτής</translation>
     </message>
 </context>
 <context>
@@ -324,15 +324,15 @@
     </message>
     <message>
         <source>&lt;html>&lt;head/>&lt;body>&lt;p align="justify">Hydrogen is an open source project which is developed by multiple people in their spare time. By making a donation you can say &amp;quot;thank you&amp;quot; to the involved persons.&lt;/p>&lt;/body>&lt;/html></source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html>&lt;head/>&lt;body>&lt;p align="justify">Το Υδρογόνο είναι ένα εγχείρημα ανοιχτής πηγής, το οποίο αναπτύσεται με την εργασία πολλών ανθρώπων, στον διαθέσιμο χρόνο τους. Κάνοντας μια δωρεά, θα μπορέσεις να πεις ένα &amp;quot;Ευχαριστώ!&amp;quot; σε όσους εμπλέκονται.&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>Sebastian Moors (aka mauser): Maintainer / Developer</source>
-        <translation type="unfinished"></translation>
+        <translation>Σεμπάστιαν Μουρ (Sebastian Moors· γνωστός ως mauser): Συντηρητής / Προγραμματιστής</translation>
     </message>
     <message>
         <source>Michael Wolkstein (aka wolke): Forum hosting</source>
-        <translation type="unfinished"></translation>
+        <translation>Μάικλ Γουολκστέιν (Michael Wolkstein γνωστός ως wolke): Φιλοξενία του φόρουμ</translation>
     </message>
 </context>
 <context>
@@ -521,7 +521,7 @@ Overwrite the existing file?</source>
     </message>
     <message>
         <source>TimeLine BPM</source>
-        <translation>Χτ.ΑνάΛεπ. του Χρονογράμματος</translation>
+        <translation>Χτ.ΑνάΛεπ. της Χρονογραμμής</translation>
     </message>
     <message>
         <source>88200</source>
@@ -529,11 +529,11 @@ Overwrite the existing file?</source>
     </message>
     <message>
         <source>Enable use of rubberband's batch processor</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση της χρήσης του ομαδικού επεξεργαστή του Ράμπερμπανντ </translation>
     </message>
     <message>
         <source>Rubberband Batch</source>
-        <translation type="unfinished"></translation>
+        <translation>Ομαδική του Ράμπερμπανντ</translation>
     </message>
     <message>
         <source>Dialog</source>
@@ -541,7 +541,7 @@ Overwrite the existing file?</source>
     </message>
     <message>
         <source>Export directory:</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάλογος εξαγωγής:</translation>
     </message>
     <message>
         <source>Modus:</source>
@@ -712,11 +712,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>New component name</source>
-        <translation type="unfinished">Όνομα του νέου </translation>
+        <translation>Όνομα του νέου συστατικού</translation>
     </message>
     <message>
         <source>Component name</source>
-        <translation type="unfinished">Όνομα του στοιχείου</translation>
+        <translation>Όνομα του συστατικού</translation>
     </message>
     <message>
         <source>Midi out channel</source>
@@ -728,11 +728,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Component volume</source>
-        <translation type="unfinished">Ένταση</translation>
+        <translation>Ένταση του συστατικού</translation>
     </message>
     <message>
         <source>Don't change the layers' gain based on velocity</source>
-        <translation type="unfinished"></translation>
+        <translation>Να μην αλλάξει η ένταση του στρώματος βάση της ταχύτητας</translation>
     </message>
     <message>
         <source>Select pattern size</source>
@@ -783,7 +783,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Randomize velocity</source>
-        <translation type="unfinished"></translation>
+        <translation>Τυχαιοποίηση της ταχύτητας</translation>
     </message>
     <message>
         <source>Delete instrument</source>
@@ -857,7 +857,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Effect return</source>
-        <translation type="unfinished">Επιστροφή του εφέ</translation>
+        <translation>Επιστροφή του εφέ</translation>
     </message>
 </context>
 <context>
@@ -1079,11 +1079,11 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Hydrogen Ready.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το Υδρογόνο είναι έτοιμο</translation>
     </message>
     <message>
         <source>Undo history</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιστορικό αναιρέσεων</translation>
     </message>
     <message>
         <source>&amp;New</source>
@@ -1099,7 +1099,7 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Open &amp;Demo</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Επί&amp;δειξης</translation>
     </message>
     <message>
         <source>Open &amp;recent</source>
@@ -1123,7 +1123,7 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Export &amp;MIDI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή αρχείου &amp;ΜΙΝΤΙ</translation>
     </message>
     <message>
         <source>&amp;Export song</source>
@@ -1144,11 +1144,11 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Redo</source>
-        <translation type="unfinished"></translation>
+        <translation>Ξαναφτιάξιμο</translation>
     </message>
     <message>
         <source>I&amp;nstruments</source>
-        <translation type="unfinished"></translation>
+        <translation>Όργα&amp;να</translation>
     </message>
     <message>
         <source>&amp;Add instrument</source>
@@ -1160,11 +1160,11 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Playlist &amp;editor</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Επεξεργαστής Κατάστιχου αναπαραγωγής</translation>
     </message>
     <message>
         <source>Director</source>
-        <translation type="unfinished">Καθοδηγητής</translation>
+        <translation>Ενορχηστρωτής</translation>
     </message>
     <message>
         <source>&amp;Mixer</source>
@@ -1172,7 +1172,7 @@ MIDI = %2</source>
     </message>
     <message>
         <source>&amp;Instrument Rack</source>
-        <translation></translation>
+        <translation>Ραφ&amp;ιέρα Οργάνων</translation>
     </message>
     <message>
         <source>Input mode</source>
@@ -1180,7 +1180,7 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Instrument</source>
-        <translation type="unfinished">Όργανο</translation>
+        <translation>Όργανο</translation>
     </message>
     <message>
         <source>Drumkit</source>
@@ -1200,7 +1200,7 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Print Objects</source>
-        <translation type="unfinished"></translation>
+        <translation>Εκτύπωση Αντικείμενων</translation>
     </message>
     <message>
         <source>&amp;Info</source>
@@ -1220,27 +1220,27 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Hydrogen Song (*.h2song)</source>
-        <translation type="unfinished"></translation>
+        <translation>Τραγούδι του Υδρογόνου (*.h2song)</translation>
     </message>
     <message>
         <source>Save song</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση του τραγουδιού</translation>
     </message>
     <message>
         <source>Song saved as.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το τραγούδι αποθηκεύτηκε ως.</translation>
     </message>
     <message>
         <source>Could not save song.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αδυναμία αποθήκευσης του τραγουδιού.</translation>
     </message>
     <message>
         <source>Song saved.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το τραγούδι αποθηκεύτηκε.</translation>
     </message>
     <message>
         <source>Hydrogen Pattern (*.h2pattern)</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήτρα του Υδρογόνου (*.h2pattern)</translation>
     </message>
     <message>
         <source>Save Pattern as ...</source>
@@ -1256,7 +1256,7 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Open song</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα τραγουδιού</translation>
     </message>
     <message>
         <source>Open Pattern</source>
@@ -1284,43 +1284,43 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Export MIDI file</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή αρχείου ΜΙΝΤΙ</translation>
     </message>
     <message>
         <source>Unknown audio driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Άγνωστος οδηγός ήχου</translation>
     </message>
     <message>
         <source>Error starting audio driver</source>
-        <translation type="unfinished"></translation>
+        <translation>Σφάλμα στο ξεκίνημα του οδηγού ήχου</translation>
     </message>
     <message>
         <source>Jack driver: server shutdown</source>
-        <translation type="unfinished"></translation>
+        <translation>Οδηγός ΤΖΑΚ: τερματισμός λειτουργίας του εξυπηρετητή</translation>
     </message>
     <message>
         <source>Jack driver: cannot activate client</source>
-        <translation type="unfinished"></translation>
+        <translation>Οδηγός ΤΖΑΚ: αδυναμία ενεργοποίησης του πελάτη</translation>
     </message>
     <message>
         <source>Jack driver: cannot connect output port</source>
-        <translation type="unfinished"></translation>
+        <translation>Οδηγός ΤΖΑΚ: αδυναμία σύνδεσης της θύρας εξαγωγής</translation>
     </message>
     <message>
         <source>Jack driver: error in port register</source>
-        <translation type="unfinished"></translation>
+        <translation>Οδηγός ΤΖΑΚ: σφάλμα στην καταγραφή της θύρας</translation>
     </message>
     <message>
         <source>Unknown error %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Άγνωστο σφάλμα %1</translation>
     </message>
     <message>
         <source>Playlist: Set song No. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάστιχο αναπαραγωγής. Όρισε το τραγούδι Αρ. %1</translation>
     </message>
     <message>
         <source>You're using a development version of Hydrogen, please help us reporting bugs or suggestions in the hydrogen-devel mailing list.&lt;br>&lt;br>Thank you!</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρησιμοποιείς μια δοκιμαστική έκδοση του Υδρογόνου. Μπορείς να μας βοηθήσεις αναφέροντας δεισλειτουργίες και προτάσεις στο κατάστιχο ηλεκτρονικού ταχυδρομίου ανάπτυξης του Υδρογόνου.&lt;br>&lt;br>Εκ των πρωτέρων, σε ευχαριστούμε!</translation>
     </message>
     <message>
         <source>Don't show this message anymore</source>
@@ -1328,14 +1328,17 @@ MIDI = %2</source>
     </message>
     <message>
         <source>Playlist: Song No. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάστιχο αναπαραγωγής. Τραγούδι Νο. %1</translation>
     </message>
     <message>
         <source>
 The document contains unsaved changes.
 Do you want to save the changes?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτό το έγγραφο περιέχει μη αποθηκευμένες αλλαγές.
+
+Θέλεις να αποθηκεύσεις τις αλλαγές;
+</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
@@ -1347,7 +1350,7 @@ Do you want to save the changes?
     </message>
     <message>
         <source>Export &amp;LilyPond file</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή αρχείου &amp;ΛίλυΠονντ</translation>
     </message>
     <message>
         <source>Donate</source>
@@ -1359,14 +1362,17 @@ Do you want to save the changes?
     </message>
     <message>
         <source>Export LilyPond file</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή αρχείου &amp;ΛίλυΠονντ</translation>
     </message>
     <message>
         <source>
 The current playlist contains unsaved changes.
 Do you want to discard the changes?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Το παρών κατάστιχο αναπαραγωγής περιέχει μη αποθηκευμένες αλλαγές.
+
+Θέλεις να απορρίψεις τις αλλαγές;
+</translation>
     </message>
     <message>
         <source>Pro&amp;ject</source>
@@ -1402,19 +1408,19 @@ Do you want to discard the changes?
     </message>
     <message>
         <source>Online import</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισαγωγή μέσω δικτύου</translation>
     </message>
     <message>
         <source>Add component</source>
-        <translation type="unfinished">Προσθήκη στοιχείου</translation>
+        <translation>Προσθήκη συστατικού</translation>
     </message>
     <message>
         <source>Component name</source>
-        <translation type="unfinished"></translation>
+        <translation>Όνομα του συστατικού</translation>
     </message>
     <message>
         <source>Saving of this library failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποτυχία αποθήκευσης αυτής της βιβλιοθήκης.</translation>
     </message>
     <message>
         <source>Drum&amp;kits</source>
@@ -1442,29 +1448,34 @@ Do you want to discard the changes?
     </message>
     <message>
         <source>MIDI out notes are not configured for this drumkit, so exporting this song to MIDI file may fail. Would you like Hydrogen to automatically fix this by assigning default values?</source>
-        <translation type="unfinished"></translation>
+        <translation>Η έξοδος στιγμάτων ΜΙΝΤΙ δεν έχει ρυθμιστεί γι αυτή την ομάδα κρουστών. 
+Κατά συνέπεια, η προσπάθεια εξαγωγής αυτού του ΜΙΝΤΙ αρχείου ίσως να αποτύχει.
+
+Θα ήθελες το Υδρογόνο να διορθώσει αυτόματα αυτό το πρόβλημα, 
+αναθέτοντας προεπιλεγμένες τιμές;</translation>
     </message>
     <message>
         <source>Set default values</source>
-        <translation type="unfinished"></translation>
+        <translation>Όρισε τις προεπιλεγμένες τιμές</translation>
     </message>
     <message>
         <source>
 The LilyPond export is an experimental feature.
 It should work like a charm provided that you use the GM-kit, and that you do not use triplet.
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Η εξαγωγή ΛίνυΠονντ είναι μία πειραματική λειτουργία.
+Θα πρέπει να τρέχει σαν νεράκι, υπό την προϋπόθεση ότι χρησιμοποιείς το GM-kit, και δεν χρησιμοποιείς τριάδες.</translation>
     </message>
 </context>
 <context>
     <name>MasterMixerLine</name>
     <message>
         <source>Humanize velocity</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξανθρωπισμός της ταχύτητας</translation>
     </message>
     <message>
         <source>Humanize time</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξανθρωπισμός του χρόνου</translation>
     </message>
     <message>
         <source>Swing</source>
@@ -1472,15 +1483,15 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Set master volume [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Όρισε την κύρια ένταση [%1]</translation>
     </message>
     <message>
         <source>Set humanize time parameter [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Όρισε την παράμετρο εξανθρωπισμού του χρόνου [%1]</translation>
     </message>
     <message>
         <source>Set humanize velocity parameter [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Όρισε την παράμετρο εξανθρωπισμού της ταχύτητας [%1]</translation>
     </message>
     <message>
         <source>Set swing factor [%1]</source>
@@ -1491,26 +1502,26 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     <name>MidiSenseWidget</name>
     <message>
         <source>This element is not midi operable.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αυτό το στοιχείο δεν είναι λειτουργίσιμο από το ΜΙΝΤΙ.</translation>
     </message>
     <message>
         <source>Waiting for midi input...</source>
-        <translation type="unfinished"></translation>
+        <translation>Αναμονή για το εισαγώμενο από το ΜΙΝΤΙ...</translation>
     </message>
 </context>
 <context>
     <name>MidiTable</name>
     <message>
         <source>press button to record midi event</source>
-        <translation type="unfinished"></translation>
+        <translation>πίεσε το πλήκτρο για να καταγράψεις τα ΜΙΝΤΙ γενόμενα</translation>
     </message>
     <message>
         <source>Event</source>
-        <translation type="unfinished"></translation>
+        <translation>Γενόμενο</translation>
     </message>
     <message>
         <source>Param.</source>
-        <translation type="unfinished"></translation>
+        <translation>Παράμ.</translation>
     </message>
     <message>
         <source>Action</source>
@@ -1521,7 +1532,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     <name>Mixer</name>
     <message>
         <source>Show FX panel</source>
-        <translation type="unfinished">Προβολή του πλαίσιου</translation>
+        <translation>Προβολή του πλαίσιου των Εφέ</translation>
     </message>
     <message>
         <source>Show instrument peaks</source>
@@ -1529,7 +1540,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Set FX %1 level </source>
-        <translation type="unfinished"></translation>
+        <translation>Όρισε το επίπεδου του FX %1</translation>
     </message>
     <message>
         <source>Show instrument peaks = On</source>
@@ -1541,11 +1552,11 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Set LADSPA FX ( %1 ) volume</source>
-        <translation type="unfinished"></translation>
+        <translation>Όρισε την ένταση του LADSPA FX ( %1 )</translation>
     </message>
     <message>
         <source>LADSPA effects are not available in this version of Hydrogen.</source>
-        <translation type="unfinished"></translation>
+        <translation>Τα εφέ LADSPA δεν είναι διαθέσιμα στην παρούσα έκδοση του Υδρογόνου.</translation>
     </message>
     <message>
         <source>Mixer</source>
@@ -1576,7 +1587,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Set instrument volume [%1]</source>
-        <translation type="unfinished">Όρισε την ένταση του οργάνου [%1]</translation>
+        <translation>Όρισε την ένταση του οργάνου [%1]</translation>
     </message>
     <message>
         <source>Set instr. pan [%1]</source>
@@ -1603,7 +1614,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Quantize keyboard/midi events to grid</source>
-        <translation type="unfinished"></translation>
+        <translation>Κβαντισμός των γενόμενων του πληκτρολόγιου ή του ΜΙΝΤΙ στο πλέγμα</translation>
     </message>
     <message>
         <source>Show piano roll editor</source>
@@ -1611,11 +1622,11 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>destructive mode pre delete settings</source>
-        <translation type="unfinished"></translation>
+        <translation>καταστροφική κατάσταση λειτουργίας, πρώτερη διαγραφή των ρυθμίσεων</translation>
     </message>
     <message>
         <source>destructive mode post delete settings</source>
-        <translation type="unfinished"></translation>
+        <translation>καταστροφική κατάσταση λειτουργίας, μετέπειτα διαγραφή των ρυθμίσεων</translation>
     </message>
     <message>
         <source>Zoom in</source>
@@ -1631,7 +1642,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Velocity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ταχύτητα</translation>
     </message>
     <message>
         <source>Pan</source>
@@ -1643,7 +1654,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>NoteKey</source>
-        <translation type="unfinished"></translation>
+        <translation>ΚλειδίΣτίγματος</translation>
     </message>
     <message>
         <source>Pattern editor - %1</source>
@@ -1663,11 +1674,11 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Quantize incoming keyboard/midi events = On</source>
-        <translation type="unfinished"></translation>
+        <translation>Κβαντισμός των εισερχομένων γενομένων του πληκτρολογίου ή του ΜΙΝΤΙ = Ενεργός</translation>
     </message>
     <message>
         <source>Quantize incoming keyboard/midi events = Off</source>
-        <translation></translation>
+        <translation>Κβαντισμός των εισερχομένων γενομένων του πληκτρολογίου ή του ΜΙΝΤΙ = Ανενεργός</translation>
     </message>
     <message>
         <source>Show drum editor</source>
@@ -1805,7 +1816,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     <name>PlayerControl</name>
     <message>
         <source>Rewind</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση προς την αρχή</translation>
     </message>
     <message>
         <source>Record</source>
@@ -1829,7 +1840,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Loop song</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανάληψη τραγουδιού</translation>
     </message>
     <message>
         <source>Pattern Mode</source>
@@ -1837,7 +1848,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Song Mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση Λειτουργίας Τραγουδιού</translation>
     </message>
     <message>
         <source>BeatCounter Panel on</source>
@@ -1849,7 +1860,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Recalculate Rubberband modified samples if bpm will change</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανυπολογισμός των δειγμάτων, που έχουν μετατραπεί με το Ράμπερμπανντ, αν αλλάξουν οι ΧτύποιΑνάΛεπτό</translation>
     </message>
     <message>
         <source>Switch metronome on/off</source>
@@ -1873,19 +1884,19 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Show Instrument Rack</source>
-        <translation type="unfinished"></translation>
+        <translation>Προβολή της Ραφιέρας των Οργάνων</translation>
     </message>
     <message>
         <source>Instrument rack</source>
-        <translation type="unfinished"></translation>
+        <translation>Ραφιέρα Οργάνων</translation>
     </message>
     <message>
         <source>Record midi events = On</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταγραφή των ΜΙΝΤΙ γενόμενων = Ενεργό</translation>
     </message>
     <message>
         <source>Record midi events = Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Καταγραφή των ΜΙΝΤΙ γενόμενων = Ανενεργό</translation>
     </message>
     <message>
         <source>Destructive mode = Off</source>
@@ -1909,7 +1920,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Song mode selected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Επιλέχτηκε κατάσταση λειτουργίας τραγουδιού.</translation>
     </message>
     <message>
         <source>Pattern mode selected.</source>
@@ -1933,15 +1944,15 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Recalculate all samples using Rubberband ON</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανϋπολογισμός όλων των δειγμάτων με χρήση του Ράμπερμπανντ: ΕΝΕΡΓΟΣ</translation>
     </message>
     <message>
         <source>Recalculate all samples using Rubberband OFF</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανϋπολογισμός όλων των δειγμάτων με χρήση του Ράμπερμπανντ: ΑΝΕΝΕΡΓΟΣ</translation>
     </message>
     <message>
         <source>Jack-transport mode = On</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση λειτοργίας μεταφοράς-ΤΖΑΚ = Ενεργή</translation>
     </message>
     <message>
         <source>Jack-transport mode = Off</source>
@@ -1949,7 +1960,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>JACK-transport will work only with JACK driver.</source>
-        <translation type="unfinished"></translation>
+        <translation>Η μεταφορά-ΤΖΑΚ μπορεί να λειτουργεί μόνο με τον οδηγό ΤΖΑΚ.</translation>
     </message>
     <message>
         <source> Jack-Time-Master mode = On</source>
@@ -1965,18 +1976,18 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Loop song = On</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανάληψη τραγουδιού = Ενεργή</translation>
     </message>
     <message>
         <source>Loop song = Off</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανάληψη τραγουδιού = Ανενεργή</translation>
     </message>
 </context>
 <context>
     <name>PlaylistDialog</name>
     <message>
         <source>Playlist Browser</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Πλοηγός Κατάστιχου αναπαραγωγής</translation>
     </message>
     <message>
         <source>&amp;Playlist</source>
@@ -2008,7 +2019,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Save Playlist &amp;as</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση του Κατάστιχου &amp;Αναπαραγωγής ως</translation>
     </message>
     <message>
         <source>&amp;Scripts</source>
@@ -2032,11 +2043,11 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Rewind</source>
-        <translation type="unfinished"></translation>
+        <translation>Μετακίνηση προς την αρχή</translation>
     </message>
     <message>
         <source>Play/ Pause/ Load selected song</source>
-        <translation type="unfinished"></translation>
+        <translation>Παίξιμο, Παύση, Φόρτωμα του επιλεγμένου τραγουδιού</translation>
     </message>
     <message>
         <source>Stop</source>
@@ -2048,7 +2059,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Song list</source>
-        <translation type="unfinished">Λίστα τραγουδιών</translation>
+        <translation>Κατάστιχο τραγουδιών</translation>
     </message>
     <message>
         <source>Script</source>
@@ -2056,7 +2067,7 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>exec Script</source>
-        <translation type="unfinished"></translation>
+        <translation>εκτέλεση Σενάριου</translation>
     </message>
     <message>
         <source>sort</source>
@@ -2068,23 +2079,23 @@ It should work like a charm provided that you use the GM-kit, and that you do no
     </message>
     <message>
         <source>Please save your song first</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ, αποθήκευσε πρώτα το τραγούδι σου</translation>
     </message>
     <message>
         <source>No Song selected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δε επιλέχτηκε κανένα Τραγούδι!</translation>
     </message>
     <message>
         <source>no Script</source>
-        <translation type="unfinished"></translation>
+        <translation>κανένα Σενάριο</translation>
     </message>
     <message>
         <source>Load Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Φόρτωμα Κατάστιχου Αναπαραγωγής</translation>
     </message>
     <message>
         <source>Hydrogen Scripts (*.sh)</source>
-        <translation type="unfinished"></translation>
+        <translation>Σενάρια του Υδρογόνου (*.sh)</translation>
     </message>
     <message>
         <source>New Script</source>
@@ -2094,37 +2105,42 @@ It should work like a charm provided that you use the GM-kit, and that you do no
         <source>Script name or path to the script contains whitespaces.
 IMPORTANT
 The path to the script and the scriptname must without whitespaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα του σενάριου ή η διαδρομή προς το σενάριο περιέχουν κενά διαστήματα.
+ΣΗΜΑΝΤΙΚΟ
+Και η διαδρομή προς το σενάριο, και το όνομα του σενάριου, δεν πρεει να περιέχουν κενά διαστήματα.</translation>
     </message>
     <message>
         <source>WARNING, the new file is executable by the owner of the file!</source>
-        <translation type="unfinished"></translation>
+        <translation>ΠΡΟΕΙΔΟΠΟΙΗΣΗ: το νέο αρχείο είναι εκτελέσιμο από τον ιδιοκτήτη του!</translation>
     </message>
     <message>
         <source>No Default Editor Set. Please set your Default Editor
 Do not use a console based Editor
 Sorry, but this will not work for the moment.</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν Έχει Οριστεί ο Προεπιλεγμένος Επεξεργαστής. 
+Παρακαλώ, όρισε τον Προεπειλεγμένο Επεξεργαστή.
+Μην επιλέξεις έναν επεξεργαστή τύπου κονσόλας.
+Δυστυχώς, κάτι τέτοιο μπορεί ακόμη να λειτουργήσει.</translation>
     </message>
     <message>
         <source>Set your Default Editor</source>
-        <translation type="unfinished"></translation>
+        <translation>Όρισε τον  Προκαθορισμένο Επεξεργαστή</translation>
     </message>
     <message>
         <source>Hydrogen Playlist (*.h2playlist)</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάστιχο Αναπαραγωγής του Υδρογόνου (*.h2playlist)</translation>
     </message>
     <message>
         <source>Save Playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση του Κατάστιχου Αναπαραγωγής</translation>
     </message>
     <message>
         <source>No Song in List or no Song selected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Κανένα Τραγούδι στο κατάστιχο, ή δεν επιλέχτηκε κανένα Τραγούδι!</translation>
     </message>
     <message>
         <source>Hydrogen Playlist (*.sh)</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάστιχο Αναπαραγωγής του Υδρογόνου (*.h2playlist)</translation>
     </message>
     <message>
         <source>Add Script to selected Song</source>
@@ -2132,15 +2148,15 @@ Sorry, but this will not work for the moment.</source>
     </message>
     <message>
         <source>No Script in use!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν χρησιμοποιείται κανέα Σενάριο!</translation>
     </message>
     <message>
         <source>No Script selected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δεν επιλέχτηκε κανένα Σενάριο!</translation>
     </message>
     <message>
         <source>No Script!</source>
-        <translation type="unfinished"></translation>
+        <translation>Κανένα Σενάριο!</translation>
     </message>
     <message>
         <source>Error loading song.</source>
@@ -2152,7 +2168,7 @@ Sorry, but this will not work for the moment.</source>
     </message>
     <message>
         <source>Playlist: set song no. %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάστιχο αναπαραγωγής. Όρισε το τραγούδι αρ. %1</translation>
     </message>
     <message>
         <source>File not found: </source>
@@ -2160,14 +2176,17 @@ Sorry, but this will not work for the moment.</source>
     </message>
     <message>
         <source>No valid song selected!</source>
-        <translation type="unfinished"></translation>
+        <translation>Δε επιλέχτηκε κανένα έγκυρο τραγούδι!</translation>
     </message>
     <message>
         <source>
 The current playlist contains unsaved changes.
 Do you want to discard the changes?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Το παρών κατάστιχο αναπαραγωγής περιέχει μη αποθηκευμένες αλλαγές.
+
+Θέλεις να απορρίψεις τις αλλαγές;
+</translation>
     </message>
     <message>
         <source>&amp;Discard</source>
@@ -2181,11 +2200,13 @@ Do you want to discard the changes?
         <source>Script name or path to the script contains whitespaces.
 IMPORTANT
 The path to the script and the scriptname must be without whitespaces.</source>
-        <translation type="unfinished"></translation>
+        <translation>Το όνομα του σενάριου ή η διαδρομή προς το σενάριο περιέχουν κενά διαστήματα.
+ΣΗΜΑΝΤΙΚΟ
+Και η διαδρομή προς το σενάριο, και το όνομα του σενάριου, δεν πρεει να περιέχουν κενά διαστήματα.</translation>
     </message>
     <message>
         <source>Hydrogen playlist (*.h2playlist)</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάστιχο αναπαραγωγής του Υδρογόνου (*.h2playlist)</translation>
     </message>
 </context>
 <context>
@@ -2196,7 +2217,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Song list</source>
-        <translation type="unfinished">Λίστα τραγουδιών</translation>
+        <translation>Κατάστιχο τραγουδιών</translation>
     </message>
 </context>
 <context>
@@ -2220,7 +2241,9 @@ The path to the script and the scriptname must be without whitespaces.</source>
     <message>
         <source>Driver restart required.
  Restart driver?</source>
-        <translation type="unfinished"></translation>
+        <translation>Απαιτείται επανεκκίνηση του οδηγού.
+
+Να επανεκκινηθεί ο οδηγός;</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
@@ -2240,7 +2263,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>&lt;br>&lt;b>&lt;font color="red">Not compiled&lt;/font>&lt;/b></source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;br>&lt;b>&lt;font color="red">Δεν προστέθηκε στην σύνθεση&lt;/font>&lt;/b></translation>
     </message>
     <message>
         <source>&lt;b>Jack Audio Connection Kit Driver&lt;/b>&lt;br>Low latency audio driver</source>
@@ -2260,7 +2283,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Please restart hydrogen to enable/disable LASH support</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλείσαι να επανεκκινήσεις το Υδρογόνο, για να ενεργοποιήσεις ή να απενεργοποιήσεις την υποστήριξη του LASH</translation>
     </message>
     <message>
         <source>Automatic</source>
@@ -2272,7 +2295,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Fixed</source>
-        <translation type="unfinished"></translation>
+        <translation>Σταθερό</translation>
     </message>
     <message>
         <source>&lt;b>PulseAudio Driver&lt;/b>&lt;br></source>
@@ -2280,11 +2303,11 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Number of steps</source>
-        <translation type="unfinished"></translation>
+        <translation>Πλήθος βημάτων</translation>
     </message>
     <message>
         <source>Color (Hue value)</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρώμα (τιμή απόχρωσης)</translation>
     </message>
 </context>
 <context>
@@ -2544,7 +2567,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Path to the Rubberband command-line utility</source>
-        <translation>Διαδρομή του εργαλείου γραμμής εντολών Rubberband</translation>
+        <translation>Η διαδρομή του εργαλείου γραμμής εντολών του Ράμπερμπανντ</translation>
     </message>
     <message>
         <source>Maximum number of bars</source>
@@ -2557,7 +2580,7 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Interpolate resampling</source>
-        <translation type="unfinished"></translation>
+        <translation>Επανασύνθεση της επαναδειγματολειψείας</translation>
     </message>
     <message>
         <source>Linear</source>
@@ -2581,19 +2604,19 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Default interface layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάταξη προεπιλεγμένης διεπαφής</translation>
     </message>
     <message>
         <source>Single pane</source>
-        <translation type="unfinished"></translation>
+        <translation>Μονό παράθυρο</translation>
     </message>
     <message>
         <source>Tabbed</source>
-        <translation type="unfinished"></translation>
+        <translation>Με καρτέλες</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>ΕτικέταΚείμενου</translation>
     </message>
     <message>
         <source>Coloring method for Song Editor elements</source>
@@ -2601,15 +2624,15 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>&lt;html>&lt;head/>&lt;body>&lt;p>&lt;span style=" font-style:italic;">After changing a font or the interface layout the application must be restarted.&lt;/span>&lt;/p>&lt;/body>&lt;/html></source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html>&lt;head/>&lt;body>&lt;p>&lt;span style=" font-style:italic;">Μετά την αλλαγή μιας γραμματοσειράς, ή της διάταξης της διεπαφής, θα πρέπει να επανακκινηθεί η εφαρμογή.&lt;/span>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>Use relative paths for playlist</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση σχετικών διαδρομών για το κατάστιχο αναπαραγωγής</translation>
     </message>
     <message>
         <source>Use output note as input note</source>
-        <translation type="unfinished"></translation>
+        <translation>Χρήση του εξαγώμενου στίγματος ως στίγματος εισαγωγής</translation>
     </message>
     <message>
         <source>Discard midi messages after action has been triggered</source>
@@ -2617,19 +2640,19 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>Create per-instrument outputs</source>
-        <translation type="unfinished"></translation>
+        <translation>Δημιουργία εξαγωγής ανά όργανο</translation>
     </message>
     <message>
         <source>Enable feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση της ανατροφοδότησης</translation>
     </message>
     <message>
         <source>&amp;OSC</source>
-        <translation type="unfinished"></translation>
+        <translation>Αν&amp;οιχτός Ηχητικός Έλεγχος (OSC)</translation>
     </message>
     <message>
         <source>&amp;Enable OSC support</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Ενεργοποίηση της υποστήριξης του Ανοιχτού Ηχητικού Έλεγχου</translation>
     </message>
     <message>
         <source>Incoming port</source>
@@ -2637,11 +2660,11 @@ The path to the script and the scriptname must be without whitespaces.</source>
     </message>
     <message>
         <source>&lt;html>&lt;head/>&lt;body>&lt;p>Port which will be used to receive incoming OSC messages&lt;/p>&lt;/body>&lt;/html></source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html>&lt;head/>&lt;body>&lt;p>Η θύρα η οποία θα χρησιμοποιείται για να λαμβάνει μυνήματα του Αοιχτού Ηχητικού Έλεγχου&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
     <message>
         <source>Enable OSC &amp;feedback</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση της ανατρο&amp;φοδότησης του Ανοιχτού Ηχητικού Έλεγχου</translation>
     </message>
 </context>
 <context>
@@ -2649,7 +2672,10 @@ The path to the script and the scriptname must be without whitespaces.</source>
     <message>
         <source>Unsaved changes left. This changes will be lost. 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Έχουν μείναι μη αποθηκευμένες αλλαγές.
+Αυτές οι αλλαγές θα χαθούν.
+
+Σίγουρα ;</translation>
     </message>
     <message>
         <source>&amp;Ok</source>
@@ -2662,7 +2688,10 @@ Are you sure?</source>
     <message>
         <source>Close dialog! maybe there is some unsaved work on sample.
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Διάλογος κλεισίματος: 
+ίσως να υπάρχει μη αποθηκευμένο έργο στο δείγμα.
+
+Στα σίγουρα;</translation>
     </message>
 </context>
 <context>
@@ -2901,7 +2930,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Crispness: </source>
-        <translation type="unfinished"></translation>
+        <translation>Τραγανότητα: </translation>
     </message>
     <message>
         <source>0</source>
@@ -2913,7 +2942,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Loop</source>
-        <translation type="unfinished">Ανακύκλωση</translation>
+        <translation>Επανάληψη</translation>
     </message>
     <message>
         <source>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
@@ -2949,7 +2978,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>"Rubberband Audio Processor" : Change the tempo (sample length) and pitch of audio.</source>
-        <translation>"Rubberband Επεξεργαστής Ήχου" : Άλλαξε το ρυθμό (μήκος δείγματος) και τον τόνο του ήχου.</translation>
+        <translation>«Ράμπερμπανντ Επεξεργαστής Ήχου» : Άλλαξε το ρυθμό (μήκος δείγματος) και τον τόνο του ήχου.</translation>
     </message>
     <message>
         <source> Pitch (Semitone,Cent)</source>
@@ -2970,18 +2999,31 @@ p, li { white-space: pre-wrap; }
 &lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;/p>
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">you can find more information here:&lt;/p>
 &lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;a href="http://www.breakfastquay.com/rubberband/ ">&lt;span style=" text-decoration: underline; color:#0000ff;">http://www.breakfastquay.com/rubberband/ &lt;/span>&lt;/a>&lt;/p>&lt;/body>&lt;/html></source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/REC-html40/strict.dtd">
+&lt;html>&lt;head>&lt;meta name="qrichtext" content="1" />&lt;style type="text/css">
+p, li { white-space: pre-wrap; }
+&lt;/style>&lt;/head>&lt;body style=" font-family:'DejaVu Sans'; font-size:9pt; font-weight:400; font-style:normal;">
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Εππεδα «Τραγαντητας»:&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  0   ιστιμο με --no-transients --no-lamination --window-long&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  1   ιστιμο με --no-transients --no-lamination&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  2   ιστιμο με --no-transients&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  3   ιστιμο με --bl-transients&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  4   προεπιλεγμένες επιλογές επεξεργασίας&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">  5   ιστιμο με --no-lamination --window-short (ίσως να είναι καλό για ντραμς)&lt;/p>
+&lt;p style="-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">μπορείς να βρεις επιπλέον πληροφορίες, εδώ:&lt;/p>
+&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;a href="http://www.breakfastquay.com/rubberband/ ">&lt;span style=" text-decoration: underline; color:#0000ff;">http://www.breakfastquay.com/rubberband/ &lt;/span>&lt;/a>&lt;/p>&lt;/body>&lt;/html></translation>
     </message>
 </context>
 <context>
     <name>SimpleHTMLBrowser</name>
     <message>
         <source>Manual</source>
-        <translation type="unfinished"></translation>
+        <translation>Εγχειρίδιο Χρήσης</translation>
     </message>
     <message>
         <source>Welcome to Hydrogen</source>
-        <translation type="unfinished"></translation>
+        <translation>Καλώς ήρθες στο Υδρογόνο</translation>
     </message>
     <message>
         <source>Don't show this message anymore</source>
@@ -2989,22 +3031,22 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Ok</source>
-        <translation type="unfinished">Εντάξει</translation>
+        <translation>Εντάξει</translation>
     </message>
     <message>
         <source>Documentation index</source>
-        <translation type="unfinished"></translation>
+        <translation>Περιεχόμενα της τεκμηρίωσης</translation>
     </message>
 </context>
 <context>
     <name>SongEditorPanel</name>
     <message>
         <source>Song Editor</source>
-        <translation type="unfinished">Επεξεργαστής Τραγουδιού</translation>
+        <translation>Επεξεργαστής Τραγουδιού</translation>
     </message>
     <message>
         <source>Enable time line edit</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενεργοποίηση της επεξεργασίας της χρονικής γραμμής</translation>
     </message>
     <message>
         <source>Clear pattern sequence</source>
@@ -3024,7 +3066,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>Select mode</source>
-        <translation type="unfinished"></translation>
+        <translation>Κατάσταση λειτουργίας επιλογής</translation>
     </message>
     <message>
         <source>Draw mode</source>
@@ -3032,7 +3074,7 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <source>stacked mode</source>
-        <translation type="unfinished"></translation>
+        <translation>κατάσταση λειτουργίας στιβάγματος</translation>
     </message>
     <message>
         <source>Pattern %1</source>
@@ -3055,7 +3097,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>stacked pattern mode</source>
-        <translation type="unfinished">κατάσταση λειτουργίας  μήτρας</translation>
+        <translation>κατάσταση λειτουργίας στιβάγματος μήτρας</translation>
     </message>
     <message>
         <source>single pattern mode</source>
@@ -3075,7 +3117,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>View timeline</source>
-        <translation type="unfinished"></translation>
+        <translation>Εμφάνιση της χρονογραμμής</translation>
     </message>
     <message>
         <source>Adjust parameter values in time</source>
@@ -3083,7 +3125,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Velocity</source>
-        <translation type="unfinished"></translation>
+        <translation>Ταχύτητα</translation>
     </message>
     <message>
         <source>Select playback track</source>
@@ -3106,7 +3148,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Edit beat in timeline</source>
-        <translation>Επεξεργασία του χτύπου στη γραμμή χρόνου</translation>
+        <translation>Επεξεργασία του χτύπου στη χρονογραμμή</translation>
     </message>
     <message>
         <source>500</source>
@@ -3188,7 +3230,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Hydrogen Pattern (*.h2pattern)</source>
-        <translation type="unfinished"></translation>
+        <translation>Μήτρα του Υδρογόνου (*.h2pattern)</translation>
     </message>
     <message>
         <source>Open Pattern</source>
@@ -3226,7 +3268,7 @@ Overwrite the existing pattern?</source>
     <name>SongPropertiesDialog</name>
     <message>
         <source>Song properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Ιδιότητες του τραγουδιού</translation>
     </message>
 </context>
 <context>
@@ -3272,11 +3314,11 @@ Overwrite the existing pattern?</source>
     <name>SoundLibraryExportDialog</name>
     <message>
         <source>Export Sound Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Εξαγωγή Βιβλιοθήκης Ήχων</translation>
     </message>
     <message>
         <source>Directory</source>
-        <translation></translation>
+        <translation>Κατάλογος</translation>
     </message>
 </context>
 <context>
@@ -3295,11 +3337,11 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Component</source>
-        <translation type="unfinished"></translation>
+        <translation>Συστατικό</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Διαδρομή</translation>
     </message>
     <message>
         <source>Version</source>
@@ -3338,7 +3380,7 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Updating SoundLibrary list...</source>
-        <translation type="unfinished"></translation>
+        <translation>Ενημερώνεται το κατάστιχο με τις ΒιβλιοθήκεςΉχων...</translation>
     </message>
     <message>
         <source>Drumkits</source>
@@ -3366,11 +3408,11 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Downloading SoundLibrary...</source>
-        <translation type="unfinished"></translation>
+        <translation>Λαμβάνεται η ΒιβλιοθήκηΉχων...</translation>
     </message>
     <message>
         <source>SoundLibrary imported in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Εισήχθη Βιβλιοθήκη Ήχων στο %1</translation>
     </message>
     <message>
         <source>An error occurred importing the SoundLibrary.</source>
@@ -3401,7 +3443,7 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>Update list</source>
-        <translation>Ενημέρωση του καταλόγου</translation>
+        <translation>Ενημέρωση του κατάλογου</translation>
     </message>
     <message>
         <source>Sound Library Name</source>
@@ -3441,7 +3483,7 @@ Overwrite the existing pattern?</source>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>ΕτικέταΚείμενου</translation>
     </message>
     <message>
         <source>Image License...</source>
@@ -3456,7 +3498,7 @@ Overwrite the existing pattern?</source>
     <name>SoundLibraryOpenDialog</name>
     <message>
         <source>Open Sound Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Άνοιγμα Βιβλιοθήκης Ήχων</translation>
     </message>
     <message>
         <source>Load</source>
@@ -3552,11 +3594,15 @@ Are you sure?</source>
 The first %2 instruments will be replaced with the new instruments and will keep their notes, but some of the remaining instruments have notes.
 Would you like to keep or discard the remaining instruments and notes?
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Η υπάρχουσα ομάδα κρουστών έχει %1 όργανα, όμως η καινούρια έχει %2.
+Τα πρώτα %2 όργανα θα αντικατασταθούν από τα νέα όργανα και θα διατηρήσουν τα στίγματά τους.
+Όμως, κάποια από τα υπόλοιπα όργανα έχουν στίγματα.
+
+Θα ήθελες να διατηρήσεις ή να απορρίψεις τα υπόλοιπα όργανα και τα στίγματα;</translation>
     </message>
     <message>
         <source>Double click to expand the list</source>
-        <translation type="unfinished"></translation>
+        <translation>Διπλό κλικ για την επέκταση του κατάστιχου</translation>
     </message>
 </context>
 <context>
@@ -3610,7 +3656,7 @@ Would you like to keep or discard the remaining instruments and notes?
     <name>SoundLibraryRepositoryDialog</name>
     <message>
         <source>Edit repository settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Επεξεργασία των ρυθμίσεων της δεξαμενής</translation>
     </message>
     <message>
         <source>Edit server list</source>
@@ -3640,11 +3686,11 @@ Would you like to keep or discard the remaining instruments and notes?
     <name>SoundLibrarySaveDialog</name>
     <message>
         <source>Save Sound Library</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποθήκευση της Βιβλιοθήκης Ήχων</translation>
     </message>
     <message>
         <source>Please supply at least a valid name</source>
-        <translation type="unfinished"></translation>
+        <translation>Παρακαλώ, δώσε τουλάχιστον ένα έγκυρο όνομα</translation>
     </message>
     <message>
         <source>A library with the same name already exists. Do you want to overwrite the existing library?</source>
@@ -3654,7 +3700,7 @@ Would you like to keep or discard the remaining instruments and notes?
     </message>
     <message>
         <source>Saving of this library failed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Αποτυχία αποθήκευσης αυτής της βιβλιοθήκης.</translation>
     </message>
     <message>
         <source>Open Image</source>
